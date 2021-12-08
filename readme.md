@@ -22,7 +22,7 @@ Sebaiknya, awak semua berehat.
 
 Wah, keberuntungan tersembunyi.
 
-<img src="img/img3.png" alt="img" style="zoom:50%;" />
+<img src="img/img3.png" alt="img" style="zoom:50%;" align="center"/>
 
 #### 实际上，这两种语系都属于南岛语系中的马来－波利尼西亚语系，其关系相当于是美式英语与英式英语，因此我们可以近乎认为，这两种语系可以同时训练
 
