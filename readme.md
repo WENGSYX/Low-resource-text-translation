@@ -1,4 +1,16 @@
-# 基于迁移学习与抗噪学习的小语种翻译模型 
+<h3>
+    <center>基于迁移学习与抗噪学习的小语种翻译模型 </center>
+</h3>
+
+<hr>
+<h4 align="center">
+    <p>
+        <b>English</b> |
+        <a href="https://github.com/WENGSYX/ADBCMM/blob/master/README.md">简体中文</a>
+    <p>
+</h4>
+
+
 
 #### 科大讯飞 2021 低资源多语种文本翻译挑战赛获奖方案
 
