@@ -1,6 +1,4 @@
-<h3>
-    <center>基于迁移学习与抗噪学习的小语种翻译模型 </center>
-</h3>
+<h3 align="center">基于迁移学习与抗噪学习的小语种翻译模型 </h3>
 
 <hr>
 <h4 align="center">
