@@ -5,7 +5,7 @@
 <hr>
 <h4 align="center">
     <p>
-        <a href="https://github.com/WENGSYX/ADBCMM/blob/master/README.md">English</a> |
+        <a href="https://github.com/WENGSYX/Low-resource-text-translation/blob/main/README.md">English</a> |
         <b>简体中文</b>
     <p>
 </h4>
