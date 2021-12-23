@@ -1,0 +1,3002 @@
+[
+    {
+        "id": 0,
+        "inputs": "哎 高了吧",
+        "targets": "Tinggi kan"
+    },
+    {
+        "id": 1,
+        "inputs": "Damon有朋友很不正常吗",
+        "targets": "Itu seperti keganjilan untuk Damon memiliki teman?"
+    },
+    {
+        "id": 2,
+        "inputs": "是吗? 竞争对手是谁呢?",
+        "targets": "Oke, jangan gunakan hurf \"E.\" jangan gunakan huruf \"E.\""
+    },
+    {
+        "id": 3,
+        "inputs": "假若真主没有判决他们应受放逐，他必在今世惩罚他们；他们在后世，将受火刑。",
+        "targets": "Dan jika tidaklah karena Allah telah menetapkan pengusiran terhadap mereka, benar-benar Allah mengazab mereka di dunia. Dan bagi mereka di akhirat azab neraka."
+    },
+    {
+        "id": 4,
+        "inputs": "你现在在监视我们吗",
+        "targets": "Kau sedang mengawasi kami sekarang?"
+    },
+    {
+        "id": 5,
+        "inputs": "没问题",
+        "targets": "Gak masalah."
+    },
+    {
+        "id": 6,
+        "inputs": "- 你什么意思？",
+        "targets": "- Apa maksudmu?"
+    },
+    {
+        "id": 7,
+        "inputs": "在被攻击时中断了",
+        "targets": "Ini...diterima saat terjadi serangan."
+    },
+    {
+        "id": 8,
+        "inputs": "现在回家，睡一觉",
+        "targets": "Sekarang pulang dan tidurlah."
+    },
+    {
+        "id": 9,
+        "inputs": "初步统计显示",
+        "targets": "Laporan awal menyebutkan..,.."
+    },
+    {
+        "id": 10,
+        "inputs": "我什么都没干 I haven't done anything to it.",
+        "targets": "Aku tidak memasukkan apa pun."
+    },
+    {
+        "id": 11,
+        "inputs": "然后我就擦碰了点东西",
+        "targets": "Dan Aku terus"
+    },
+    {
+        "id": 12,
+        "inputs": "从哪里？",
+        "targets": "Dari mana?"
+    },
+    {
+        "id": 13,
+        "inputs": "召集起来 出发 把他们带到船上",
+        "targets": "Kumpulkan mereka semua, ayo! Bawa semuanya ke pesawat sekarang."
+    },
+    {
+        "id": 14,
+        "inputs": "我觉得你即可悲又无聊 急需找个兴趣爱好",
+        "targets": "menurutku kau menyedihkan dan sedang bosan dan sangat butuh melakukan sesuatu (hobby)."
+    },
+    {
+        "id": 15,
+        "inputs": "这两个孩子是青少年。",
+        "targets": "Kedua anak ini adalah remaja."
+    },
+    {
+        "id": 16,
+        "inputs": "我们最终都是要上天堂的，不是吗？",
+        "targets": "Kita semua nantinya akan bersama-Nya bukan?"
+    },
+    {
+        "id": 17,
+        "inputs": "并且让所有植物同时生长开花 这要分很多次拍摄对吧",
+        "targets": "Kami akan harus memiliki mereka semua keluar pada saat yang sama, dan itu akan melewati beberapa, bukan?"
+    },
+    {
+        "id": 18,
+        "inputs": "欢迎！",
+        "targets": "- Terima kasih."
+    },
+    {
+        "id": 19,
+        "inputs": "好啦，对不起",
+        "targets": "Baiklah, maafkan aku."
+    },
+    {
+        "id": 20,
+        "inputs": "妈妈!",
+        "targets": "ibu!"
+    },
+    {
+        "id": 21,
+        "inputs": "他把那些想象成了童话一般的故事",
+        "targets": "Dia mengubah semua ceritanya menjadi dongeng."
+    },
+    {
+        "id": 22,
+        "inputs": "我按照地点搜索了一下社交媒体上的照片 Hey.",
+        "targets": "Aku memeriksa foto di sosial media berdasarkan lokasi... untuk mencari apa ada foto di sekitar TKP pagi ini, dan ternyata ada pria mengambil selfie... dengan landaknya, jangan tanya, tepat di saat tersangka kita keluar dari mobil Ford Fusion abu-abu."
+    },
+    {
+        "id": 23,
+        "inputs": "有人吗 我是梅兰妮 梅兰妮 在用无线电呼叫",
+        "targets": "Halo, di sini Melanie. Melanie memanggil melalui radio."
+    },
+    {
+        "id": 24,
+        "inputs": "道尔顿或许说对了一些事 没错",
+        "targets": "Bahwa Dalton mungkin memiliki informasi yang benar, yeah."
+    },
+    {
+        "id": 25,
+        "inputs": "绿箭侠 前季提要",
+        "targets": "Musim sebelumnya di Arrow..."
+    },
+    {
+        "id": 26,
+        "inputs": "明明就是机器人 还真敢说呢",
+        "targets": "Kau tahu, untuk ukuran robot, kau manis juga."
+    },
+    {
+        "id": 27,
+        "inputs": "很好,因祸得福啦",
+        "targets": "Wah, keberuntungan tersembunyi."
+    },
+    {
+        "id": 28,
+        "inputs": "罗宾森报告说",
+        "targets": "Robinson's melapor."
+    },
+    {
+        "id": 29,
+        "inputs": "你该不会认为你一路化险为夷 都仅是好运的功劳吧？",
+        "targets": "Kau tak berpikir kalau semua petualangan dan pelarianmu disebabkan keberuntungan, 'kan ?"
+    },
+    {
+        "id": 30,
+        "inputs": "我们不需要他 Uh, we didn't need him.",
+        "targets": "Eh, kita tidak membutuhkannya."
+    },
+    {
+        "id": 31,
+        "inputs": "我希望她还能记得我",
+        "targets": "Kuharap dia masih mengingatku. Aku juga."
+    },
+    {
+        "id": 32,
+        "inputs": "他打了你",
+        "targets": "Pete memukulimu."
+    },
+    {
+        "id": 33,
+        "inputs": "嗯.. 我们将采取措施 改善居住条件",
+        "targets": "Kita juga melangkah untuk kondisi hidup"
+    },
+    {
+        "id": 34,
+        "inputs": "看上面",
+        "targets": "Alan, atasnya!"
+    },
+    {
+        "id": 35,
+        "inputs": "女士 Ma'am.",
+        "targets": "Bu."
+    },
+    {
+        "id": 36,
+        "inputs": "白马王子",
+        "targets": "eh...\"Pangeran Charmingmu\"."
+    },
+    {
+        "id": 37,
+        "inputs": "队，感觉很好 我的脖子不痛了",
+        "targets": "Yeah, rasanya nyaman. Leherku tidak sakit lagi sekarang."
+    },
+    {
+        "id": 38,
+        "inputs": "－授与史东，暂时的被任命者。 －是的。",
+        "targets": "- Grant Stone, punya janji dengan provost."
+    },
+    {
+        "id": 39,
+        "inputs": "无脚的足球梦想吗？",
+        "targets": "Tidak ada mimpi sepak bola tanpa kaki?"
+    },
+    {
+        "id": 40,
+        "inputs": "现在,快走! 快走! 走!",
+        "targets": "Sekarang, terus jalan, terus jangan berhenti."
+    },
+    {
+        "id": 41,
+        "inputs": "逃离犯罪现场 Fleeing the scene of the crime.",
+        "targets": "Melarikan diri dari tempat kejadian."
+    },
+    {
+        "id": 42,
+        "inputs": "Oh. What about the time with the dinosaur? - 这个不错",
+        "targets": "Baigaimana kalau saat bersama dinosaurus."
+    },
+    {
+        "id": 43,
+        "inputs": "你自己说写作... 是你的疗伤方式",
+        "targets": "Katamu sendiri, kau suka sekali menulis."
+    },
+    {
+        "id": 44,
+        "inputs": "奶奶...",
+        "targets": "Nenek ..."
+    },
+    {
+        "id": 45,
+        "inputs": "- 醒一醒，别作白日梦了",
+        "targets": "- Bangun, pemimpi."
+    },
+    {
+        "id": 46,
+        "inputs": "- 正义",
+        "targets": "Kapan ?"
+    },
+    {
+        "id": 47,
+        "inputs": "米奇恩议员今天不能到场",
+        "targets": "Hari ini Senator Meachum tak bisa bersama kita"
+    },
+    {
+        "id": 48,
+        "inputs": "-他是法国人",
+        "targets": "-Dia orang Perancis."
+    },
+    {
+        "id": 49,
+        "inputs": "下次吧",
+        "targets": "Mungkin lain kali."
+    },
+    {
+        "id": 50,
+        "inputs": "全都是肌肉",
+        "targets": "Semuanya otot."
+    },
+    {
+        "id": 51,
+        "inputs": "你肯定有其他方法能应对这种情况",
+        "targets": "Jelas ada cara lain bagimu untuk menyelesaikan masalah ini."
+    },
+    {
+        "id": 52,
+        "inputs": "你在天上？",
+        "targets": "Naik ke surga?"
+    },
+    {
+        "id": 53,
+        "inputs": "-再来一次",
+        "targets": "- Ayo kita ambil satu lagi."
+    },
+    {
+        "id": 54,
+        "inputs": "朱丽亚 拜托 冷静一点吧",
+        "targets": "Julia, ayolah! Santai saja."
+    },
+    {
+        "id": 55,
+        "inputs": "你想听听我作为你医生的专业意见吗 Can I give you my professional opinion, as your doctor?",
+        "targets": "Bisakah aku memberimu pendapat profesional, sebagai doktermu?"
+    },
+    {
+        "id": 56,
+        "inputs": "而那小家伙的胡须...",
+        "targets": "Dan kumis nya."
+    },
+    {
+        "id": 57,
+        "inputs": "614房.",
+        "targets": "Di lantai atas, tuan, ruang 614."
+    },
+    {
+        "id": 58,
+        "inputs": "问题再私密一些",
+        "targets": "Beri pertanyaan yang lebih pribadi."
+    },
+    {
+        "id": 59,
+        "inputs": "- 直到今天遇到那个女士",
+        "targets": "Sampai hari ini, waktu ia bertemu wanita itu."
+    },
+    {
+        "id": 60,
+        "inputs": "嘿 路易斯!",
+        "targets": "Hei, Rhea..."
+    },
+    {
+        "id": 61,
+        "inputs": "他们开着84年代的富豪汽车往山上去",
+        "targets": "mereka mengendarai volvo 84 ke atas bukit."
+    },
+    {
+        "id": 62,
+        "inputs": "-嘿,我没在和你开玩笑",
+        "targets": "Dengar,aku tidak main main..."
+    },
+    {
+        "id": 63,
+        "inputs": "毛发 皮肤 指甲等等",
+        "targets": "Rambut, kulit, di bawah kuku, dan lain-lain."
+    },
+    {
+        "id": 64,
+        "inputs": "你为什么不解决他 Then why don't you finish him?",
+        "targets": "Kenapa kau tak menghabisinya?"
+    },
+    {
+        "id": 65,
+        "inputs": "街对面的\"软心先生\"冰淇淋车那儿",
+        "targets": "Tuan Softee, Di seberang jalan."
+    },
+    {
+        "id": 66,
+        "inputs": "找到了Reynolds",
+        "targets": "Reynolds kami temukan."
+    },
+    {
+        "id": 67,
+        "inputs": "一定是这两个人干的",
+        "targets": "Ini adalah pasangan yang sama yang membebaskan Freeze."
+    },
+    {
+        "id": 68,
+        "inputs": "{\\fnMicrosoft YaHei\\fs22\\shad1\\3cHF2AA45\\be1}现在不是做决定的时候 {\\fnMicrosoft YaHei\\fs14\\bord1\\shad1\\3cH6C3308\\be1}Now is not the right time to make that kind of a decision.",
+        "targets": "Sekarang bukan waktu yang tepat untuk membuat keputusan seperti itu."
+    },
+    {
+        "id": 69,
+        "inputs": "明白了吧？",
+        "targets": "kau paham?"
+    },
+    {
+        "id": 70,
+        "inputs": "我还会时不时送你点儿礼物",
+        "targets": "Aku akan mengirimkan beberapa hadiah tambahan."
+    },
+    {
+        "id": 71,
+        "inputs": "你想要去是吧",
+        "targets": "Kau mau pergi?"
+    },
+    {
+        "id": 72,
+        "inputs": "让他为你骄傲！",
+        "targets": "Buat dia bangga padamu ! Menang!"
+    },
+    {
+        "id": 73,
+        "inputs": "这是一种制造人体武器的血清素",
+        "targets": "Itu sebuah serum yang dirancang buat membuat senjata manusia."
+    },
+    {
+        "id": 74,
+        "inputs": "我们到这里作最后致意... 我们来追忆她的旅程...",
+        "targets": "Kami berkumpul hari ini untuk membayar tanggung jawab kita mari kita pikirkan perjalanan hidupnya..."
+    },
+    {
+        "id": 75,
+        "inputs": "did they get him?",
+        "targets": "Baik, apa mereka mendapatkan dia?"
+    },
+    {
+        "id": 76,
+        "inputs": "我去了角落那边等他",
+        "targets": "Aku di sudut jalan, menunggu dia..."
+    },
+    {
+        "id": 77,
+        "inputs": "至少她把你的老底琢磨的很透",
+        "targets": "Kurasa dia sudah cukup tahu mengenai dirimu."
+    },
+    {
+        "id": 78,
+        "inputs": "在我改主意前快上来，真是的",
+        "targets": "Masuklah sebelum aku berubah pikiran !"
+    },
+    {
+        "id": 79,
+        "inputs": "你原以为你绝不会进入魔镜",
+        "targets": "Kurasa kau takkan paham itu. Absolem."
+    },
+    {
+        "id": 80,
+        "inputs": "杏仁 补充体力",
+        "targets": "Aku hanya mau mengisi ulang staminaku."
+    },
+    {
+        "id": 81,
+        "inputs": "我们正在设法找出房主",
+        "targets": "Kami masih mencari pemilik yang sekarang ini."
+    },
+    {
+        "id": 82,
+        "inputs": "Don't do anything!",
+        "targets": "Jangan lakukan apa-apa!"
+    },
+    {
+        "id": 83,
+        "inputs": "为什么你不爱我 妈妈",
+        "targets": "Kenapa Ibu tidak menyayangiku?"
+    },
+    {
+        "id": 84,
+        "inputs": "- 自己来取",
+        "targets": "Red: Kemari dan ambil lah."
+    },
+    {
+        "id": 85,
+        "inputs": "从没有谁做到过 That's never been done before.",
+        "targets": "Itu tak pernah dilakukan sebelumnya."
+    },
+    {
+        "id": 86,
+        "inputs": "都说出来...",
+        "targets": "..dengan keras.."
+    },
+    {
+        "id": 87,
+        "inputs": "不忍心今天下午亲口告诉你 她对我也开不了口",
+        "targets": "Ia hanya tak sanggup mengatakannya padamu tadi."
+    },
+    {
+        "id": 88,
+        "inputs": "那是全知幽明的、万能的、至慈的主。",
+        "targets": "Yang demikian itu ialah Tuhan Yang mengetahui yang ghaib dan yang nyata, Yang Maha Perkasa lagi Maha Penyayang."
+    },
+    {
+        "id": 89,
+        "inputs": "天啊 那些谎",
+        "targets": "Ya Tuhan. Semua kebohongan itu."
+    },
+    {
+        "id": 90,
+        "inputs": "姜姓不管在哪儿都是排第一啊",
+        "targets": "Kau bisa selalu yang pertama."
+    },
+    {
+        "id": 91,
+        "inputs": "琪拉雅",
+        "targets": "Kiara."
+    },
+    {
+        "id": 92,
+        "inputs": "留意我的呼吸",
+        "targets": "Perhatikan caraku bernapas."
+    },
+    {
+        "id": 93,
+        "inputs": "也会跟我明天将要爱的你一样",
+        "targets": "Kau yang sama, yang akan kucintai besok."
+    },
+    {
+        "id": 94,
+        "inputs": "侮辱我，从不感激我",
+        "targets": "Kau menghina aku dan kau tak menghargai pekerjaanku."
+    },
+    {
+        "id": 95,
+        "inputs": "也将改善妇女权益，他了解女性",
+        "targets": "Dia paham wanita. -Ya Tuhan."
+    },
+    {
+        "id": 96,
+        "inputs": "我想她们去打保龄球了",
+        "targets": "Kupikir mereka pergi main bowling"
+    },
+    {
+        "id": 97,
+        "inputs": "告诉你老婆我来买单",
+        "targets": "Katakan pada istrimu aku yang traktir."
+    },
+    {
+        "id": 98,
+        "inputs": "主人不是这样的",
+        "targets": "{\\cH00FFFF}Tidak. Tidak dengan Tuan."
+    },
+    {
+        "id": 99,
+        "inputs": "你只能靠你自己",
+        "targets": "Kau harus cari yang lain."
+    },
+    {
+        "id": 100,
+        "inputs": "将雷蒙德·卡佛的小说改写成话剧呢? to adapting Raymond Carver for the stage?",
+        "targets": "Lalu mengadaptasi karya Raymond Carver Di panggung pertunjukkan ?"
+    },
+    {
+        "id": 101,
+        "inputs": "我迟到了 要走了",
+        "targets": "{\\fnCandara\\fs60\\b1\\4cH000000\\4aH80}Apa..."
+    },
+    {
+        "id": 102,
+        "inputs": ".. 这些都扔了 这里工作进展就是那么快",
+        "targets": ".. tidak terpakai. Secepat itulah pekerjaan berpindah di sini."
+    },
+    {
+        "id": 103,
+        "inputs": "我叫 Kip. 嗨.",
+        "targets": "Aku Kip"
+    },
+    {
+        "id": 104,
+        "inputs": "我了勒个去 我赢了",
+        "targets": "Oh, sial. Aku menang."
+    },
+    {
+        "id": 105,
+        "inputs": "大家为他欢呼吧",
+        "targets": "Mari tepuk tangan untuk dia."
+    },
+    {
+        "id": 106,
+        "inputs": "－幸会，凯伦加弗内 －幸会",
+        "targets": "Selamat datang di rumahku yang jauh dari rumah."
+    },
+    {
+        "id": 107,
+        "inputs": "都是时势使然 The times make us what we are.",
+        "targets": "Waktu membentuk diri kita."
+    },
+    {
+        "id": 108,
+        "inputs": "交由巴基斯坦军方监禁",
+        "targets": "...akan tetap berada di bawah militer Pakistan."
+    },
+    {
+        "id": 109,
+        "inputs": "你介意我看一看 以确保你安全吗?",
+        "targets": "Keberatan jika aku melihat sekeliling untuk keamanan kamu?"
+    },
+    {
+        "id": 110,
+        "inputs": "出什么事了吗？",
+        "targets": "Apa semuanya baik-baik saja?"
+    },
+    {
+        "id": 111,
+        "inputs": "怎么这么问",
+        "targets": "Untuk hal itu, lebih baik jangan ditanyakan dulu."
+    },
+    {
+        "id": 112,
+        "inputs": "(清洁间116)",
+        "targets": "BAGIAN PEMELIHARAAN 116"
+    },
+    {
+        "id": 113,
+        "inputs": "怎么了 爸爸",
+        "targets": "Ada apa, yah?"
+    },
+    {
+        "id": 114,
+        "inputs": "我了解的你... 让你成为了一个完全不同的人",
+        "targets": "Apa yang kutahu mengenaimu adalah kau sepenuhnya orang yang sangat berbeda."
+    },
+    {
+        "id": 115,
+        "inputs": "妈的 保持这个姿势。",
+        "targets": "Lindungi aku orang Rusia bodoh ! Baxter !"
+    },
+    {
+        "id": 116,
+        "inputs": "赢5次竞赛 赢得你们的自由",
+        "targets": "Menang lima balapan memenangkan kebebasanmu."
+    },
+    {
+        "id": 117,
+        "inputs": "ぃ笵и琌暗ぐ或",
+        "targets": "Ibu tahukah siapa aku?"
+    },
+    {
+        "id": 118,
+        "inputs": "-你要我停车吗？",
+        "targets": "- Apa aku ingin aku menepi?"
+    },
+    {
+        "id": 119,
+        "inputs": "那么，在那之后? 他们一起出去了吗? 你看见他跟踪他了吗?",
+        "targets": "Setelah itu, mereka pulang bersama..."
+    },
+    {
+        "id": 120,
+        "inputs": "我带妳去看房间",
+        "targets": "Akan kutunjukkan kamarmu."
+    },
+    {
+        "id": 121,
+        "inputs": "然后你想...",
+        "targets": "dan kau mau:"
+    },
+    {
+        "id": 122,
+        "inputs": "They've won 1 0 in a row. Seattle is 1 3 and 3.",
+        "targets": "Mereka telah menang 10 kali berturut-turut."
+    },
+    {
+        "id": 123,
+        "inputs": "他有一颗邪恶的心 满是杀戮的欲望 He is a man with an evil heart and an appetite to kill.",
+        "targets": "Seorang pria yang berhati jahat dan memiliki hasrat untuk membunuh."
+    },
+    {
+        "id": 124,
+        "inputs": "一点都没有意思 好吧 我笑了",
+        "targets": "Lucu sekali. ya, aku tertawa."
+    },
+    {
+        "id": 125,
+        "inputs": "不！",
+        "targets": "Tidaaakkk !"
+    },
+    {
+        "id": 126,
+        "inputs": "好吧，让我开始吧 Alright Let's get right To it.",
+        "targets": "Baik, mari kita mengerti kejelasannya."
+    },
+    {
+        "id": 127,
+        "inputs": "- 你想要谈一谈或者...",
+        "targets": "Kau ingin membicarakannya, atau-- Tidak sekarang."
+    },
+    {
+        "id": 128,
+        "inputs": "请靠近对讲机 面对荧幕 Please approach the console and face the screen.",
+        "targets": "Harap dekati konsol dan menghadap layar."
+    },
+    {
+        "id": 129,
+        "inputs": "谁叫个医生过来 讲真 这节奏有点晕",
+        "targets": "Tolong panggil dokter, karena dentuman ini keren."
+    },
+    {
+        "id": 130,
+        "inputs": "任凭羊在地上扭动、喘气",
+        "targets": "Menggeliat-geliat di lantai. Membuat suara."
+    },
+    {
+        "id": 131,
+        "inputs": "而这...",
+        "targets": "Dan ini .."
+    },
+    {
+        "id": 132,
+        "inputs": "圣地牙哥 去跟奶奶住",
+        "targets": "San Diego... untuk tinggal bersama nenek."
+    },
+    {
+        "id": 133,
+        "inputs": "别再说了",
+        "targets": "Joe, bisakah kau menghentikan mengatakan hal itu ?"
+    },
+    {
+        "id": 134,
+        "inputs": "接着他们都开始大笑，再也掩饰不住恶作剧了",
+        "targets": "Lalu mereka semua mulai tertawa, mereka tak bisa bermain lebih lama."
+    },
+    {
+        "id": 135,
+        "inputs": "你还是不知道你的错误吗？",
+        "targets": "Kau masih tidak tahu apa kesalahanmu?"
+    },
+    {
+        "id": 136,
+        "inputs": "而且痛苦的事实是， 女人从来不会正眼看你一下。",
+        "targets": "Dan sejujurnya, biasanya wanita bahkan tidak mau melihatmu."
+    },
+    {
+        "id": 137,
+        "inputs": "他来警告我们提防詹姆斯",
+        "targets": "Dia mengingatkan kita mengenai James."
+    },
+    {
+        "id": 138,
+        "inputs": "你很担心莉露露吧",
+        "targets": "kau sangat mencemaskan Li Lulu ya..."
+    },
+    {
+        "id": 139,
+        "inputs": "好的，走吧",
+        "targets": "Oke, ayo pergi."
+    },
+    {
+        "id": 140,
+        "inputs": "不着急",
+        "targets": "Jangan buru - buru."
+    },
+    {
+        "id": 141,
+        "inputs": "不 那是希金",
+        "targets": "Bukan, itu Higgins. Itu Higgins."
+    },
+    {
+        "id": 142,
+        "inputs": "我至今还有那些照片",
+        "targets": "Aku masih memiliki fotomu."
+    },
+    {
+        "id": 143,
+        "inputs": "要么在但他就得受伤 是吧",
+        "targets": "- Jangan membesar-besarkan."
+    },
+    {
+        "id": 144,
+        "inputs": "认罪和恢复县财政这两个条件",
+        "targets": "Mengakui kesalahan dan mengganti kerugian..."
+    },
+    {
+        "id": 145,
+        "inputs": "喺婚姻嘅死亡之吻 一定要避免甘样嘅事。",
+        "targets": "Itulah ciuman kematian pernikahan dan sesuatu yang harus dihindari."
+    },
+    {
+        "id": 146,
+        "inputs": "你学会保护什么是你的了。",
+        "targets": "Anda belajar untuk melindungi apa yang menjadi milikmu."
+    },
+    {
+        "id": 147,
+        "inputs": "我要做什么",
+        "targets": "Apa yang harus aku lakukan?"
+    },
+    {
+        "id": 148,
+        "inputs": "你现在就能了结这事 由你选择",
+        "targets": "kami tak ingin melakukan hal ini? kau bisa hentikan ini sekarang."
+    },
+    {
+        "id": 149,
+        "inputs": "不过 他们是谁呢",
+        "targets": "dan maaf, siapa orang2 ini?"
+    },
+    {
+        "id": 150,
+        "inputs": "又不是跳脱衣舞，她们才十九岁",
+        "targets": "Namamu muncul di McGill's. Mereka menari di bar."
+    },
+    {
+        "id": 151,
+        "inputs": "杀害你的人",
+        "targets": "Mau membunuh orang...."
+    },
+    {
+        "id": 152,
+        "inputs": "你记得5年级的老师特丽莎修女吗",
+        "targets": "Kau ingat suster Theresa yang mengajari kita saat kelas 5?"
+    },
+    {
+        "id": 153,
+        "inputs": "你会相信两小时前 我全身绿漆还吊着盐水吗？",
+        "targets": "Kau percaya jika aku bilang \"Aku mencatnya 2 jam yang lalu\"?"
+    },
+    {
+        "id": 154,
+        "inputs": "或是羊毛衫合唱团",
+        "targets": "Atau Cardigans."
+    },
+    {
+        "id": 155,
+        "inputs": "我也很喜欢。",
+        "targets": "aku juga suka."
+    },
+    {
+        "id": 156,
+        "inputs": "给钱...",
+        "targets": "Bayar!"
+    },
+    {
+        "id": 157,
+        "inputs": "我的团队在楼下， 还有一辆检查设备齐全的面包车.",
+        "targets": "Ada Jeep di bawah... Penuh dengan peralatan pemindahan."
+    },
+    {
+        "id": 158,
+        "inputs": "她总是爱笑",
+        "targets": "Dia selalu tersenyum."
+    },
+    {
+        "id": 159,
+        "inputs": "我的意思是，你不应该去克利夫兰。",
+        "targets": "Maksudku, kau tidak akan pergi ke Cleveland."
+    },
+    {
+        "id": 160,
+        "inputs": "你怎么回事？",
+        "targets": "Apa yg kau lakukan?"
+    },
+    {
+        "id": 161,
+        "inputs": "你说某处一定有他的研究纪录",
+        "targets": "Kau bilang pasti catatan kerjanya Ada di suatu tempat."
+    },
+    {
+        "id": 162,
+        "inputs": "检查",
+        "targets": "Periksa"
+    },
+    {
+        "id": 163,
+        "inputs": "把你的枪给我",
+        "targets": "Kau masih pakai lencanamu?"
+    },
+    {
+        "id": 164,
+        "inputs": "不走温柔 到那个美好的夜晚 晚年应该狂欢 烧当一天结束",
+        "targets": "tidak pergi lembut ke dalam malam yang baik usia tua harus mengigau dan membakar ketika baru saja hari"
+    },
+    {
+        "id": 165,
+        "inputs": "-饶了我吧,伯特",
+        "targets": "Beri aku waktu, Burt,"
+    },
+    {
+        "id": 166,
+        "inputs": "依照数据已经 Crakovic '旧姓的 在他的臀部上的马蹄铁形的疤痕。",
+        "targets": "Menurut informasi telah Crakovic 'ne Berbentuk tapal kuda bekas luka di pantat."
+    },
+    {
+        "id": 167,
+        "inputs": "他送了礼物给你，在你桌上。",
+        "targets": "Dia mengirim sebuah hadiah untukmu, dimejamu."
+    },
+    {
+        "id": 168,
+        "inputs": "Van Dyke. Mr. Van Dyke!",
+        "targets": "Van Dyke!"
+    },
+    {
+        "id": 169,
+        "inputs": "我们会让他看到这些错误的号码...",
+        "targets": "Kita tunjukan padanya ini salah sambung."
+    },
+    {
+        "id": 170,
+        "inputs": "Oh, boy, he's out cold.",
+        "targets": "Astaga, dia ketiduran."
+    },
+    {
+        "id": 171,
+        "inputs": "快点 在楼上的客人完事儿之前搞定",
+        "targets": "Cepat, sebelum tamu di atas selesai."
+    },
+    {
+        "id": 172,
+        "inputs": "It's a red. 你是说这是红的?",
+        "targets": "-Yeah."
+    },
+    {
+        "id": 173,
+        "inputs": "我们正在赢得这场信息战 那比短期的 主流媒体合作伙伴更重要 你却想打退堂鼓",
+        "targets": "Kita memiliki informasi tentang perang... yang akan diluar aliansi jangka pendek yang kita miliki dengan media... dan kau ingin menghapusnya karena ketakutanmu... jika beberapa informan dari Pemerintah AS sedang dalam bahaya?"
+    },
+    {
+        "id": 174,
+        "inputs": "小宝贝",
+        "targets": "Putri ayah."
+    },
+    {
+        "id": 175,
+        "inputs": "他们对我来说很重要",
+        "targets": "Mereka sangat berarti bagiku."
+    },
+    {
+        "id": 176,
+        "inputs": "他在印第安娜的拉法叶",
+        "targets": "Dia ada Lafayette, Indiana."
+    },
+    {
+        "id": 177,
+        "inputs": "抱歉 小子 I'm sorry, kid.",
+        "targets": "Maaf, bocah."
+    },
+    {
+        "id": 178,
+        "inputs": "这里居然也有房子诶",
+        "targets": "Rumah - rumah apa itu ?"
+    },
+    {
+        "id": 179,
+        "inputs": "- \"小蜜蜂\"怎么样?",
+        "targets": "Kasih tahu aku. - The Bumblebees?"
+    },
+    {
+        "id": 180,
+        "inputs": "如果你去不了的话 回电我 91745...",
+        "targets": "Andai kau tak berhasil, hubungi aku kembali di 917-454."
+    },
+    {
+        "id": 181,
+        "inputs": "每年的这场小聚会 Whitmore医生 会向他所有Augustine的朋友 展示他的研究成果",
+        "targets": "Pesta kecil tahunan ini adalah dimana Dr. Whitmore harus menunjukan pada semua teman-teman Augustinenya apa yang dia temukan dalam penelitianya."
+    },
+    {
+        "id": 182,
+        "inputs": "- 刚才太带劲了",
+        "targets": "/ Tadi itu seksi."
+    },
+    {
+        "id": 183,
+        "inputs": "因为马瑟尔回家很晚，经常晚上工作",
+        "targets": "Jika Anda memiliki hati nurani yang bersih ... Anda memiliki satu itu? -Lebih dari Anda."
+    },
+    {
+        "id": 184,
+        "inputs": "一直换频道呢?",
+        "targets": "pencari Channel?"
+    },
+    {
+        "id": 185,
+        "inputs": "J. 汤玛士. 甘恩...",
+        "targets": "J. Thomas Gaines..."
+    },
+    {
+        "id": 186,
+        "inputs": "- 是你的那份钱 我一直帮你保存着",
+        "targets": "Aku menyimpannya untukmu."
+    },
+    {
+        "id": 187,
+        "inputs": "显然他正在家里给我做晚餐",
+        "targets": "Sebuah keberuntungan Rupanya, dia memasak makan malam untukku di rumahnya"
+    },
+    {
+        "id": 188,
+        "inputs": "- 不管怎么样，样式还是很漂亮",
+        "targets": "Apakah Anda baik-baik saja?"
+    },
+    {
+        "id": 189,
+        "inputs": "- 是的，谢谢",
+        "targets": "- Ya. Terima kasih."
+    },
+    {
+        "id": 190,
+        "inputs": "起作用了！",
+        "targets": "Berhasil!"
+    },
+    {
+        "id": 191,
+        "inputs": "凯蒂 我想打个求助电话",
+        "targets": "Katie aku ingin menggunakan pilihan bantuan."
+    },
+    {
+        "id": 192,
+        "inputs": "我反复问自己是否要告诉你",
+        "targets": "Aku terus berdiskusi dengan diriku sendiri haruskah aku mengatakannya padamu atau tidak."
+    },
+    {
+        "id": 193,
+        "inputs": "寇森一个月前给我的任务 要找对得上的东西",
+        "targets": "Coulson menyuruhku menganalisa ini sebulan yang lalu, untuk mencari kecocokan."
+    },
+    {
+        "id": 194,
+        "inputs": "很好，我们现在得溜进那个礼拜堂...",
+        "targets": "Baiklah, bagus. Yang harus kita lakukan adalah masuk ke kapel ini..,.."
+    },
+    {
+        "id": 195,
+        "inputs": "就算送给我，我也会扔掉的",
+        "targets": "Itu barang tak berguna. Jika memberikan padaku sebagai hadiah, aku tetap akan membuangnya."
+    },
+    {
+        "id": 196,
+        "inputs": "佩雷斯！",
+        "targets": "Perez!"
+    },
+    {
+        "id": 197,
+        "inputs": "um... i wanted to talk to you about Christian.",
+        "targets": "Aku menelepon karena ingin bicara soal Christian."
+    },
+    {
+        "id": 198,
+        "inputs": "他把我的台词抢走了 He beat me by one second.",
+        "targets": "Kau bisa beri aku waktu sebentar? Jelas kau belum pernah melihat omelet?"
+    },
+    {
+        "id": 199,
+        "inputs": "给我打开门!",
+        "targets": "buka saja pintunya !"
+    },
+    {
+        "id": 200,
+        "inputs": "你个混蛋",
+        "targets": "Bajingan!"
+    },
+    {
+        "id": 201,
+        "inputs": "加连威老道36号后巷",
+        "targets": "Itu area barat Kowloon."
+    },
+    {
+        "id": 202,
+        "inputs": "从祖父到父亲，这东西再传到我",
+        "targets": "Dari kakekku untuk ayahku, ini telah datang kepadaku."
+    },
+    {
+        "id": 203,
+        "inputs": "你干什么",
+        "targets": "Mungkin mereka disini."
+    },
+    {
+        "id": 204,
+        "inputs": "-哦 琼 我们的琼小姐",
+        "targets": "- Oh, Joan. Nona Joan kita."
+    },
+    {
+        "id": 205,
+        "inputs": "你到底和我是不是一条心",
+        "targets": "Kau bersamaku atau tidak?"
+    },
+    {
+        "id": 206,
+        "inputs": "我没说 你有 斗大晒",
+        "targets": "Hei, aku tidak bilang begitu, kamu yang mengatakannya."
+    },
+    {
+        "id": 207,
+        "inputs": "你愿意做什么来让我闭嘴？",
+        "targets": "Apa yang Anda bersedia lakukan untuk saya agar aku tenang?"
+    },
+    {
+        "id": 208,
+        "inputs": "我们可以成为 首队证实灵异存在的科学家",
+        "targets": "Kita Bisa MenJadi Ilmuwan Pertama Yang Bisa Membuktikan Keberadaan Sesuatu Yang Tidak nyata."
+    },
+    {
+        "id": 209,
+        "inputs": "- 在我口袋里 口袋里",
+        "targets": "- Didalam kantongku.."
+    },
+    {
+        "id": 210,
+        "inputs": "你该花些时间... 想想在这的所见所闻 我们下周再谈",
+        "targets": "Ambillah sedikit waktu pikirkan apa yang kaualami di sini, kita akan bertemu minggu depan."
+    },
+    {
+        "id": 211,
+        "inputs": "又称埃德加・威廉・沃恩，也就是\"死神\"",
+        "targets": "Alias Edgar William Vaughn. Alias Moloch."
+    },
+    {
+        "id": 212,
+        "inputs": "-不 你先过去",
+        "targets": "-Tidak, kau duluan."
+    },
+    {
+        "id": 213,
+        "inputs": "管道的好朋友！",
+        "targets": "Pipe-pals!"
+    },
+    {
+        "id": 214,
+        "inputs": "我们没有Pump！",
+        "targets": "Aku tak ada Pump."
+    },
+    {
+        "id": 215,
+        "inputs": "我怎么可能会导致如果我有两个很好的手中。",
+        "targets": "Bagaimana aku memimpin jika aku punya dua tangan yang baik."
+    },
+    {
+        "id": 216,
+        "inputs": "你是个非常好的朋友 汉尼拔",
+        "targets": "Kau teman yang baik, Hannibal."
+    },
+    {
+        "id": 217,
+        "inputs": "沃德说芮娜认识他 这不可能是巧合",
+        "targets": "Ini tidak mungkin kebetulan."
+    },
+    {
+        "id": 218,
+        "inputs": "你的离婚协议书中",
+        "targets": "Kontrak ini berlaku dalam hal perselingkuhan perkawinan."
+    },
+    {
+        "id": 219,
+        "inputs": "With me? 当然是跟你 Yeah.",
+        "targets": "Ya. denganmu."
+    },
+    {
+        "id": 220,
+        "inputs": "我想到谢尔顿开的小玩笑 Well, I was thinking about Sheldon's little joke",
+        "targets": "Ya. Ada apa?"
+    },
+    {
+        "id": 221,
+        "inputs": "-教授",
+        "targets": "- Profesor."
+    },
+    {
+        "id": 222,
+        "inputs": "ぃ琌产 常и皑矗",
+        "targets": "Tidak, sebenernya, orang memanggilku Marty."
+    },
+    {
+        "id": 223,
+        "inputs": "等等 我想要的东西和普洛米修斯一样",
+        "targets": "Aku hanya inginkan apa yg diinginkan oleh Prometheus"
+    },
+    {
+        "id": 224,
+        "inputs": "- 你们说的话我都听得见的",
+        "targets": "Kau tahu aku bisa mendengar segala sesuatu yang kau katakan ? !"
+    },
+    {
+        "id": 225,
+        "inputs": "杨博士 大韩民国的50%是多少啊",
+        "targets": "Dokter, jika 50% dari penduduk di Korea, berapa banyak kah itu?"
+    },
+    {
+        "id": 226,
+        "inputs": "你不知道做一名律师的先决条件",
+        "targets": "Kau tak tahu bagaimana menjadi seorang Pengacara."
+    },
+    {
+        "id": 227,
+        "inputs": "各位 来看一看",
+        "targets": "Hei, sobat, lihat ini."
+    },
+    {
+        "id": 228,
+        "inputs": "您的一打胡萝卜，祝你今天愉快",
+        "targets": "A dozen carrots. Have a nice day."
+    },
+    {
+        "id": 229,
+        "inputs": "快穿上！",
+        "targets": "Cepat pakai!"
+    },
+    {
+        "id": 230,
+        "inputs": "我跟你说了 我去看专科医生 {\\cH00FFFF}{\\3cH000000}I told you. I'm going to a specialist.",
+        "targets": "Aku sudah bilang, aku pergi ke spesialis."
+    },
+    {
+        "id": 231,
+        "inputs": "该组织还指出马可以自我繁殖，而拖垃圾只会不断贬值。",
+        "targets": "Kelompok ini juga menyatakan bahwa kuda bisa berkembang biak, sementara traktor justru susut nilainya."
+    },
+    {
+        "id": 232,
+        "inputs": "不二价",
+        "targets": "Harga tak dapat dinegosiasikan."
+    },
+    {
+        "id": 233,
+        "inputs": "等一下 喂 等等 等等",
+        "targets": "Tunggu sebentar, ayolah, Tunggu sebentar."
+    },
+    {
+        "id": 234,
+        "inputs": "- 是的",
+        "targets": "- tidak"
+    },
+    {
+        "id": 235,
+        "inputs": "你好!",
+        "targets": "Hello."
+    },
+    {
+        "id": 236,
+        "inputs": "你的医生没跟你解释过吗？",
+        "targets": "Bukankah dokter di rumah menjelaskan hal ini kepada Anda?"
+    },
+    {
+        "id": 237,
+        "inputs": "你拿着 轻点...",
+        "targets": "Tenang, Rick."
+    },
+    {
+        "id": 238,
+        "inputs": "当我看到翠丝醒过来时， 我终于以自己的智慧能够实现了它",
+        "targets": "Mereka cukup pintar untuk menyadarinya"
+    },
+    {
+        "id": 239,
+        "inputs": "亲！",
+        "targets": "sayang!"
+    },
+    {
+        "id": 240,
+        "inputs": "连牛都开口说话了，这次真是百妖群集呀",
+        "targets": "\"Kerbau Bisa Bicara... Ini Gila\"!"
+    },
+    {
+        "id": 241,
+        "inputs": "你对你的艺术品要价多少?",
+        "targets": "- Gimana \"Tarif-mu\"?"
+    },
+    {
+        "id": 242,
+        "inputs": "你这个狗娘养的",
+        "targets": "Dasar keparat!"
+    },
+    {
+        "id": 243,
+        "inputs": "秘密就在这",
+        "targets": "Rahasia ada di sana."
+    },
+    {
+        "id": 244,
+        "inputs": "他们问我的名字",
+        "targets": "Mereka ingin mengetahui namaku."
+    },
+    {
+        "id": 245,
+        "inputs": "\"把它塞进我嘴里\"，你是跳针的唱盘吗？",
+        "targets": "Mendorong ke dalam mulut saya. Kau seperti kaset rusak."
+    },
+    {
+        "id": 246,
+        "inputs": "他会向Cassie效忠 再向我报告他知道的情况",
+        "targets": "Dia akan berjanji kesetiaannya kepada Cassie, melaporkan kembali, dan mengatakan segala sesuatu yang ia pelajari."
+    },
+    {
+        "id": 247,
+        "inputs": "我说你为何要离开你的弟兄?",
+        "targets": "Maksudku, kenapa kau ingin meninggalkan anak buahmu?"
+    },
+    {
+        "id": 248,
+        "inputs": "我会帮你抓到他",
+        "targets": "Aku akan membantumu menangkapnya, Clarice."
+    },
+    {
+        "id": 249,
+        "inputs": "我们的微软股票跌了3点 真不错 再见 弗兰肯斯坦",
+        "targets": "Ketika kalian memberitahunya Dia tidak akan hanya mencari tahu mengenai kecelakaanya."
+    },
+    {
+        "id": 250,
+        "inputs": "午饭前必须把这些事情搞定",
+        "targets": "Kita harus memiliki semua dilakukan oleh makan siang."
+    },
+    {
+        "id": 251,
+        "inputs": "我扶你起来",
+        "targets": "Sini kubantu."
+    },
+    {
+        "id": 252,
+        "inputs": "我说过连皮吃才健康，因为皮里的...",
+        "targets": "Selama pemerintahan Raja Gwanghae. Aku bilang kulit tomat itu baik untukmu karena mereka memiliki ..."
+    },
+    {
+        "id": 253,
+        "inputs": "什么？ ！",
+        "targets": "apa?"
+    },
+    {
+        "id": 254,
+        "inputs": "我完蛋了 我完蛋了 哦!",
+        "targets": "Sial. Sial. Ah!"
+    },
+    {
+        "id": 255,
+        "inputs": "只能相信他们想让你摒弃的人 仍然心系于你 你就也应该对自己保持信念",
+        "targets": "Kecuali percaya bahwa orang2 yg mereka ingin aku untuk lupakan... bahwa mereka masih yakin padamu... dan kau berhutang pada mereka untuk melakukan hal yg sama."
+    },
+    {
+        "id": 256,
+        "inputs": "为什么沃顿先生被发现的时候 是死在他的水罐旁边 一只手还在火堆里 袖子和手都烧焦了",
+        "targets": "Wharton ditemukan di dekat panci miliknya satu tangan terbakar, lengan dan tangannya mengepulkan asap?"
+    },
+    {
+        "id": 257,
+        "inputs": "遇到我是你的运气 Now, you're lucky you got me.",
+        "targets": "Kau beruntung bertemu diriku."
+    },
+    {
+        "id": 258,
+        "inputs": "你有没有告诉她？",
+        "targets": "- Apa kau mengatakan padanya?"
+    },
+    {
+        "id": 259,
+        "inputs": "如果朱海瑞要对付卡马里 那他可有麻烦了",
+        "targets": "Jika Al-Zuhari menangkap basah Kamali, Kamali dalam masalah."
+    },
+    {
+        "id": 260,
+        "inputs": "那你的父亲又对你做了什么",
+        "targets": "Dan apa yang dilakukan ayahmu padamu?"
+    },
+    {
+        "id": 261,
+        "inputs": "我只是问问",
+        "targets": "Itu hanya satu pertanyaan."
+    },
+    {
+        "id": 262,
+        "inputs": "我老婆的名字叫 Marie.",
+        "targets": "Nama istriku adalah Marie."
+    },
+    {
+        "id": 263,
+        "inputs": "一个有信誉的公司..",
+        "targets": "Mempunyai reputasi baik yang diberikan..."
+    },
+    {
+        "id": 264,
+        "inputs": "- 六",
+        "targets": "- Enam."
+    },
+    {
+        "id": 265,
+        "inputs": "每一天都看日出 是啊",
+        "targets": "Aku bangun tiap hari untuk melihat matahari terbit."
+    },
+    {
+        "id": 266,
+        "inputs": "我能做的不止这点 I can do more than that.",
+        "targets": "Aku bisa melakukan lebih daripada itu"
+    },
+    {
+        "id": 267,
+        "inputs": "-我们不能杀他们",
+        "targets": "- Kita tidak bisa menyentuhnya!"
+    },
+    {
+        "id": 268,
+        "inputs": "让他拿些",
+        "targets": "Panggil dia."
+    },
+    {
+        "id": 269,
+        "inputs": "脱了",
+        "targets": "Lepas bajumu."
+    },
+    {
+        "id": 270,
+        "inputs": "你 你确定这架飞机",
+        "targets": "Apakah kau yakin pesawat ini..."
+    },
+    {
+        "id": 271,
+        "inputs": "一个人能做出不同的事",
+        "targets": "Tapi ada satu hal yang dia tidak bisa berubah. Bukan dia, bukan kamu, bukan siapa-siapa."
+    },
+    {
+        "id": 272,
+        "inputs": "想让我看到他的脸 He wanted me to see his face.",
+        "targets": "Dia ingin aku melihat wajahnya."
+    },
+    {
+        "id": 273,
+        "inputs": "-怎么拦啊",
+        "targets": "Bagaimana cara menghambatnya?"
+    },
+    {
+        "id": 274,
+        "inputs": "迦太基就像是棵带着被揭示预兆的 {\\cHFFFFFF}{\\3cH111111}{\\4cH111111}Carthage is lit up like a christmas tree 圣诞树 {\\cHFFFFFF}{\\3cH111111}{\\4cH111111}With revelation omens.",
+        "targets": "Carthage menyala seperti pohon Natal dengan pertanda wahyu."
+    },
+    {
+        "id": 275,
+        "inputs": "-没在我身上 {\\3cH202020}",
+        "targets": "- Bukan di badanku!"
+    },
+    {
+        "id": 276,
+        "inputs": "在你工作生涯中拿过挺多百元大钞的?",
+        "targets": "Banyak dapat 100 dollar dengan pekerjaanmu?"
+    },
+    {
+        "id": 277,
+        "inputs": "我的工... My paych...",
+        "targets": "Gaji ku ..."
+    },
+    {
+        "id": 278,
+        "inputs": "妳要是走了，我就什么也没有了",
+        "targets": "Jika kau pergiku, hidupku hampa."
+    },
+    {
+        "id": 279,
+        "inputs": "不像雷克斯的语气 你在哪里？",
+        "targets": "\"Jangan Nakal Lagi\"..."
+    },
+    {
+        "id": 280,
+        "inputs": "打我们干吗",
+        "targets": "Kenapa mereka menyerang kita?"
+    },
+    {
+        "id": 281,
+        "inputs": "在优素福和他哥哥们（的故事）里，对于询问者确有许多迹象。",
+        "targets": "Di dalam kisah Yûsuf dan saudara-saudaranya terdapat pelajaran dan bukti-bukti kekuasaan Allah bagi orang-orang yang menanyakan dan ingin mengetahuinya."
+    },
+    {
+        "id": 282,
+        "inputs": "我从不相信这些谣言 但就某些已发生的事来说 我发现很难把他们忘掉",
+        "targets": "Aku tak pernah begitu percaya pada cerita ini tetapi mengingat beberapa hal lain yang terjadi aku sulit untuk mengeluarkannya dari pikiranku."
+    },
+    {
+        "id": 283,
+        "inputs": "关于西纳的 Cinna.",
+        "targets": "Cinna."
+    },
+    {
+        "id": 284,
+        "inputs": "通知法尔科内",
+        "targets": "Beritahu Falcone."
+    },
+    {
+        "id": 285,
+        "inputs": "这丫头跑哪去了？",
+        "targets": "Dia pergi ke mana?"
+    },
+    {
+        "id": 286,
+        "inputs": "他说，他想留在这儿 因为他的职业生涯将增长",
+        "targets": "Tak lama kemudian, dia malah membatalkannya. Katanya dia perlu ke mari untuk mengetahui karirnya ber-akting."
+    },
+    {
+        "id": 287,
+        "inputs": "我们答应啦 就要在一起行动",
+        "targets": "Kita terus bekerja sama dan menepati janji kita."
+    },
+    {
+        "id": 288,
+        "inputs": "你想告诉他什么",
+        "targets": "Apa yang akan kau beritahukan kepada Berenson?"
+    },
+    {
+        "id": 289,
+        "inputs": "- 他可是个不同寻常的人",
+        "targets": "Dia orang yang hebat."
+    },
+    {
+        "id": 290,
+        "inputs": "-那些石头从哪里来",
+        "targets": "Putar kemudinya, sekarang! - Dari mana datangnya batu itu?"
+    },
+    {
+        "id": 291,
+        "inputs": "到皇家医学院H厅来",
+        "targets": "Aula H, malam ini pukul 8 pm."
+    },
+    {
+        "id": 292,
+        "inputs": "我在这里看到埃里克Northman的。",
+        "targets": "Apa urusanmu di sini?"
+    },
+    {
+        "id": 293,
+        "inputs": "我叫了保安 结果她就捅了我",
+        "targets": "Aku panggil petugas keamanan."
+    },
+    {
+        "id": 294,
+        "inputs": "他有女人还会邀你去农场度假？",
+        "targets": "Menurutmu dia mengajakmu kencan akhir pekan disana jika dia punya pacar?"
+    },
+    {
+        "id": 295,
+        "inputs": "你犹豫了一下才给了安全信号",
+        "targets": "Kau ragu-ragu sebelum kau memberikan sinyal aman."
+    },
+    {
+        "id": 296,
+        "inputs": "是的 夫人 我需要为此担忧吗",
+        "targets": "iya, Ibu haruskah aku khawatir?"
+    },
+    {
+        "id": 297,
+        "inputs": "对于门外汉来说 事情也太危险了",
+        "targets": "Hal yang cukup rumit untuk seorang amatir."
+    },
+    {
+        "id": 298,
+        "inputs": "你一旦走出这一步，将要如何收场？",
+        "targets": "Awak memulakan jalan ini, di mana ia berakhir?"
+    },
+    {
+        "id": 299,
+        "inputs": "我能听完这首歌吗",
+        "targets": "Boleh ku selesaikan lagu ini?"
+    },
+    {
+        "id": 300,
+        "inputs": "我操 这么有意思",
+        "targets": "Sungguh, itu menarik. / Sumpah."
+    },
+    {
+        "id": 301,
+        "inputs": "对力量的 {\\cHFFFFFF}{\\3cH111111}{\\4cH111111}Lust.",
+        "targets": "Hasrat."
+    },
+    {
+        "id": 302,
+        "inputs": "他们走了，途中悄悄地商议说：",
+        "targets": "(Maka pergilah mereka saling berbisik-bisikan) yakni dengan secara diam-diam."
+    },
+    {
+        "id": 303,
+        "inputs": "里面有白蚁",
+        "targets": "Banyak rayap."
+    },
+    {
+        "id": 304,
+        "inputs": "社区大学",
+        "targets": "Kampus perguruan tinggi."
+    },
+    {
+        "id": 305,
+        "inputs": "这还挺好吃的",
+        "targets": "Makanannya cukup enak."
+    },
+    {
+        "id": 306,
+        "inputs": "不懂",
+        "targets": "/ Tidak."
+    },
+    {
+        "id": 307,
+        "inputs": "不，我不会去 胸围我的屁股 每一天 去 绝对行不通的。",
+        "targets": "Aku takkan bekerja keras setiap hari di tempat manapun sama sekali."
+    },
+    {
+        "id": 308,
+        "inputs": "你脑子里的数字都是没用的",
+        "targets": "Jumlah fakta yg tak berguna yg ada dalam kepalamu."
+    },
+    {
+        "id": 309,
+        "inputs": "快点 睁开眼",
+        "targets": "Ayo, berpikir."
+    },
+    {
+        "id": 310,
+        "inputs": "我不知道妳是怎样逃脱的 艾瑞丝",
+        "targets": "Saya tidak tahu bagaimana Anda lolos, Eris."
+    },
+    {
+        "id": 311,
+        "inputs": "就是这儿了！",
+        "targets": "(TOTO) Voila!"
+    },
+    {
+        "id": 312,
+        "inputs": "放手盖布！",
+        "targets": "Lepaskan! Gabe!"
+    },
+    {
+        "id": 313,
+        "inputs": "伏地魔回来了",
+        "targets": "Voldemort kembali."
+    },
+    {
+        "id": 314,
+        "inputs": "他 说，\"我需要知道你为什么",
+        "targets": "Dia mengatakan, \"Saya perlu tahu mengapa Anda"
+    },
+    {
+        "id": 315,
+        "inputs": "...... 是你。",
+        "targets": "Tapi kaulah senjatanya."
+    },
+    {
+        "id": 316,
+        "inputs": "你有没有杀我的儿子？",
+        "targets": "Apa kau membunuh anakku? Oh, tidak."
+    },
+    {
+        "id": 317,
+        "inputs": "路易斯，你得跳下来",
+        "targets": "Louis, kau harus lompat."
+    },
+    {
+        "id": 318,
+        "inputs": "揪琌Τ絬冀BOUND",
+        "targets": "Jennifer, aDa apa?"
+    },
+    {
+        "id": 319,
+        "inputs": "不行 你会杀了我的",
+        "targets": "Tidak...tidak, tidak, tidak, tidak, orang-orangmu mencoba membunuhku."
+    },
+    {
+        "id": 320,
+        "inputs": "早上好，黛博拉",
+        "targets": "Selamat pagi, Deborah."
+    },
+    {
+        "id": 321,
+        "inputs": "我不是个罪犯",
+        "targets": "Aku bukan seorang kriminal."
+    },
+    {
+        "id": 322,
+        "inputs": "留出唐人街。",
+        "targets": "Menjauhlah dari Chinatown."
+    },
+    {
+        "id": 323,
+        "inputs": "我听我朋友说",
+        "targets": "Lalu siapa?"
+    },
+    {
+        "id": 324,
+        "inputs": "- 那好极了，棒极了",
+        "targets": "Itu bagus. - Ya?"
+    },
+    {
+        "id": 325,
+        "inputs": "-不是...",
+        "targets": "- Kami mengetahuinya."
+    },
+    {
+        "id": 326,
+        "inputs": "- \"混球\"又不是脏话",
+        "targets": "\" Bego \" bukanlah kata yang buruk."
+    },
+    {
+        "id": 327,
+        "inputs": "-真的吗",
+        "targets": "Oh, benarkah?"
+    },
+    {
+        "id": 328,
+        "inputs": "好吧。",
+        "targets": "Nah,"
+    },
+    {
+        "id": 329,
+        "inputs": "now.",
+        "targets": "Sampai jumpa nanti."
+    },
+    {
+        "id": 330,
+        "inputs": "但很不巧没拿到你的联系方式，事实上 but I'd had absolutely no luck getting hold of you. In fact, 我是在你档案中的图片上认出了你 I recognised you from your photograph in the file.",
+        "targets": "Sebenarnya, aku mengenalimu dari foto di berkas."
+    },
+    {
+        "id": 331,
+        "inputs": "他们回来了 在这儿 快点 拿去 快",
+        "targets": "- Mereka datang. - Ini, cepatlah. Ambil."
+    },
+    {
+        "id": 332,
+        "inputs": "每个人都希望拥有权力",
+        "targets": "Semua orang ingin memiliki kekuatan"
+    },
+    {
+        "id": 333,
+        "inputs": "我得引开它们",
+        "targets": "Aku harus mengalihkan mereka agar menjauh."
+    },
+    {
+        "id": 334,
+        "inputs": "- 我捉弄你",
+        "targets": "- Kau selalu mengacau. - Aku?"
+    },
+    {
+        "id": 335,
+        "inputs": "发射搞得怎么样？",
+        "targets": "Bagaimana peluncurannya?"
+    },
+    {
+        "id": 336,
+        "inputs": "混小子",
+        "targets": "Ahhh!"
+    },
+    {
+        "id": 337,
+        "inputs": "我的",
+        "targets": "Alamatku."
+    },
+    {
+        "id": 338,
+        "inputs": "从不出错 怎么了?",
+        "targets": "Tidak pernah nada keliru. Apa yang terjadi?"
+    },
+    {
+        "id": 339,
+        "inputs": "他拿了我的钱 你别追了",
+        "targets": "- Dia membawa uangku. - Jangan, lupakan."
+    },
+    {
+        "id": 340,
+        "inputs": "并激活了他。",
+        "targets": "Dan mengaktifkan dia."
+    },
+    {
+        "id": 341,
+        "inputs": "他正在发烧",
+        "targets": "Dia mulai terkena demam."
+    },
+    {
+        "id": 342,
+        "inputs": "It's like Tinder but for spinsters.",
+        "targets": "Seperti Tinder tapi untuk perawan tua."
+    },
+    {
+        "id": 343,
+        "inputs": "-他想搭车,瑞秋 - 大家都只想搭车.",
+        "targets": "Semua ingin naik."
+    },
+    {
+        "id": 344,
+        "inputs": "你尝过肉体愉悦的感受？",
+        "targets": "Apakah Anda akrab dengan bentuk fisik kesenangan?"
+    },
+    {
+        "id": 345,
+        "inputs": "辛巴 你会喜欢死的",
+        "targets": "Simba, ini akan sangat hebat."
+    },
+    {
+        "id": 346,
+        "inputs": "求求你！",
+        "targets": "Tidak, kumohon!"
+    },
+    {
+        "id": 347,
+        "inputs": "- 还要你说，美国佬",
+        "targets": "- Benar, Amerika!"
+    },
+    {
+        "id": 348,
+        "inputs": "你别误会 我是卖栗子的",
+        "targets": "Aku tidak... kau sudah salah..."
+    },
+    {
+        "id": 349,
+        "inputs": "好的 我去",
+        "targets": "Baik. Aku pergi."
+    },
+    {
+        "id": 350,
+        "inputs": "我只想跟你说我希望你能为我投票让我留下来.",
+        "targets": "Aku hanya ingin bilang aku ingin kau memilihku."
+    },
+    {
+        "id": 351,
+        "inputs": "你很想要他吗？",
+        "targets": "Kau ingin ini?"
+    },
+    {
+        "id": 352,
+        "inputs": "长官，关于布拉德利将军",
+        "targets": "Tentang Jenderal Bradley, Pak."
+    },
+    {
+        "id": 353,
+        "inputs": "不要这样叫他们 他们是人，他们是犹太人",
+        "targets": "Mereka bukan Yahudi."
+    },
+    {
+        "id": 354,
+        "inputs": "不 在印度下面",
+        "targets": "- Tidak, itu dibawah India."
+    },
+    {
+        "id": 355,
+        "inputs": "狦иノ皗筿 盢ウ旧笆篈筿甧竟 砛Θ",
+        "targets": "Kalau kita bisa mengalirkan petir ini ke dalam flux capacitor itu mungkin akan berhasil."
+    },
+    {
+        "id": 356,
+        "inputs": "每一年。",
+        "targets": "Bahwa setiap tahun..,.."
+    },
+    {
+        "id": 357,
+        "inputs": "怪物一出生就能跑？",
+        "targets": "Dia sedang berkeliaran. Dia menuju ke mana?"
+    },
+    {
+        "id": 358,
+        "inputs": "杀死顾客的人吗",
+        "targets": "Tentu,Tony Perkins. Tony Perkins."
+    },
+    {
+        "id": 359,
+        "inputs": "来吧，快看看这个 这种事到处都能看到",
+        "targets": "Ayo, lihat ini."
+    },
+    {
+        "id": 360,
+        "inputs": "谁会谋杀一个过气的时尚设计师?",
+        "targets": "siapa yg ingin membunuh seorang desainer yg gagal?"
+    },
+    {
+        "id": 361,
+        "inputs": "-你很棒",
+        "targets": "- Anda yang besar!"
+    },
+    {
+        "id": 362,
+        "inputs": "七号街的电话均无法接通",
+        "targets": "panggilanAndauntukSektor7tidak dapat diselesaikan saat ini /. i"
+    },
+    {
+        "id": 363,
+        "inputs": "我们还需要再做进一步审讯吗 朱利安上校",
+        "targets": "Apa kita perlu lakukan penyelidikan lebih lanjut, Kolonel Julyan?"
+    },
+    {
+        "id": 364,
+        "inputs": "你今天生日吗",
+        "targets": "Apa hari ini hari ulang tahunmu?"
+    },
+    {
+        "id": 365,
+        "inputs": "我们可能没有第二次机会",
+        "targets": "Kita mungkin tak dapat peluang lain./ Ini keputusanmu, tapi cuma kita disini."
+    },
+    {
+        "id": 366,
+        "inputs": "艾丽克丝 真聪明",
+        "targets": "sangat pintar, Alex."
+    },
+    {
+        "id": 367,
+        "inputs": "哦漂亮的女士，带我去狂欢",
+        "targets": "Wahai wanita cantik Tunjukkan caranya berpesta"
+    },
+    {
+        "id": 368,
+        "inputs": "看看你现在的样子...",
+        "targets": "Dan lihatlah dirimu sekarang..."
+    },
+    {
+        "id": 369,
+        "inputs": "给一小群人演出",
+        "targets": "\"di luar gerbang taman."
+    },
+    {
+        "id": 370,
+        "inputs": "你告诉我 对于我们来说 这是好消息？",
+        "targets": "Sekarang katakan, apa ini kabar baik untuk kita?"
+    },
+    {
+        "id": 371,
+        "inputs": "- 嘿",
+        "targets": "Hai, Bill."
+    },
+    {
+        "id": 372,
+        "inputs": "安静",
+        "targets": "Kembali ke tempat dudukmu."
+    },
+    {
+        "id": 373,
+        "inputs": "盖瑞，你不是坏人 但你不适合当男友",
+        "targets": "Gary, kau bukan orang yang jahat, tapi kau bukanlah pacar ideal."
+    },
+    {
+        "id": 374,
+        "inputs": "八岁开始以讨债维生 从来没有讨不回的债",
+        "targets": "Penagih utang melguekan pada usia 8, tidak pernah gagal untuk menagih utang."
+    },
+    {
+        "id": 375,
+        "inputs": "等等，怎么回事？",
+        "targets": "Tunggu, apa yang terjadi ?"
+    },
+    {
+        "id": 376,
+        "inputs": "请到运尸车到 桃树大厦三十九楼 这里...",
+        "targets": "Meminta wagon daging untuk Pohon Peach, tingkat 39."
+    },
+    {
+        "id": 377,
+        "inputs": "在我梦里... 这地方就是一滩臭水",
+        "targets": "Tempat ini... seperti bau alkohol."
+    },
+    {
+        "id": 378,
+        "inputs": "你想想雨化田怎么会轻易放过 一个长得这么像他的人",
+        "targets": "Coba kamu pikir, Yu Hua Tian bagaimana bisa begitu mudah melepaskan orang yg begitu mirip dengannya?"
+    },
+    {
+        "id": 379,
+        "inputs": "就在爬到树顶的那一瞬间 And no sooner than she climbed to the top,",
+        "targets": "Apa ? / Tak lama setelah mencapai puncak...,"
+    },
+    {
+        "id": 380,
+        "inputs": "来 靠近瞧瞧",
+        "targets": "Ayo. Cobalah lebih mendekat."
+    },
+    {
+        "id": 381,
+        "inputs": "我猜我们得再坚持一阵了",
+        "targets": "Segera \"Keluar Orbit\". \"Musuh\" berdatangan."
+    },
+    {
+        "id": 382,
+        "inputs": "获胜作品是罗利・杰弗森的\"妈妈咪呀\"",
+        "targets": "Danpemenangnyaadalah \"Zoo-wee Mama\" oleh Jefferson Rowley!"
+    },
+    {
+        "id": 383,
+        "inputs": "我逐渐变成人类",
+        "targets": "Aku menjadi manusia."
+    },
+    {
+        "id": 384,
+        "inputs": "填好了",
+        "targets": "Selesai."
+    },
+    {
+        "id": 385,
+        "inputs": "哦,这是那个家伙的房子",
+        "targets": "Oh, rupanya di sini tempat tinggal dia."
+    },
+    {
+        "id": 386,
+        "inputs": "我需要个医生",
+        "targets": "Aku butuh tabib."
+    },
+    {
+        "id": 387,
+        "inputs": "我知道你喜欢硬闯，即兴发挥",
+        "targets": "Aku tahu kau suka membuat kacau."
+    },
+    {
+        "id": 388,
+        "inputs": "它可以给你勇气 让你做得更好 至少不是更差",
+        "targets": "Yang memberikanmu keberanian untuk menjadi lebih baik dari sebelumnya,"
+    },
+    {
+        "id": 389,
+        "inputs": "奏效了吗? Did it work?",
+        "targets": "Apakah itu bekerja?"
+    },
+    {
+        "id": 390,
+        "inputs": "是的，噢！",
+        "targets": "Ya."
+    },
+    {
+        "id": 391,
+        "inputs": "Cavalry's arrived.",
+        "targets": "Pasukan datang."
+    },
+    {
+        "id": 392,
+        "inputs": "龙生和他的兄弟，玩水枪",
+        "targets": "Ryusei dan kakaknya, dia yang membawa pistol air."
+    },
+    {
+        "id": 393,
+        "inputs": "准备好迎接布尔范格吧",
+        "targets": "Siapkan untuk kedatangan dari Bolphunga."
+    },
+    {
+        "id": 394,
+        "inputs": "没他妈一点信号",
+        "targets": "Tidak ada komunikasi."
+    },
+    {
+        "id": 395,
+        "inputs": "如果我做了一点不正常的事 就朝着我脑袋来一发",
+        "targets": "Kau tahu, jika aku melakukan sesuatu bahkan sedikit tidak dari biasanya... tembak saja kepalaku."
+    },
+    {
+        "id": 396,
+        "inputs": "他们说这至少要一年或更久，对吧？",
+        "targets": "Mereka mengatakan itu akan setidaknya Satu tahun atau lebih, ok ?"
+    },
+    {
+        "id": 397,
+        "inputs": "这些绑匪 如果他们死了",
+        "targets": "Orang yang menyanderaku Jika mereka mati"
+    },
+    {
+        "id": 398,
+        "inputs": "我们很赞赏 \"我们\"是指谁?",
+        "targets": "Itulah katanya."
+    },
+    {
+        "id": 399,
+        "inputs": "这是他极少令人钦佩的素质之一",
+        "targets": "Ini salah satu kelebihan-nya yg mengagumkan."
+    },
+    {
+        "id": 400,
+        "inputs": "- 请听我说...",
+        "targets": "- Kau dengan ini dihilangkan kekuatan abadimu dan selamanya dibuang ke tanah manusia."
+    },
+    {
+        "id": 401,
+        "inputs": "是时候了 我要做几个月前早就该做的事... 把神盾局彻底打趴下",
+        "targets": "Sudah waktunya aku melakukan yang seharusnya kulakukan sebelumnya... menghancurkan S.H.I.E.L.D. untuk selamanya."
+    },
+    {
+        "id": 402,
+        "inputs": "有人醒着吗?",
+        "targets": "Ada yang belum tidur?"
+    },
+    {
+        "id": 403,
+        "inputs": "更可恶的是 这整个仪式根本是个骗局 因为站在你们面前的这个人",
+        "targets": "Apa lagi, keseluruhan upacara ini adalah palsu ... orang yang berdiri di depan Anda ..."
+    },
+    {
+        "id": 404,
+        "inputs": "各人将因自己的营谋而作抵押，",
+        "targets": "Tiap-tiap diri bertanggung jawab atas apa yang telah diperbuatnya,"
+    },
+    {
+        "id": 405,
+        "inputs": "我在古董书店工作 找到一本",
+        "targets": "Ini edisi pertama yang asli. Aku bekerja di toko buku antik, dan menemukannya."
+    },
+    {
+        "id": 406,
+        "inputs": "你想要拿到那笔钱 除非有一支军队",
+        "targets": "kau sudah merasa berhasil dengan begitu saja.."
+    },
+    {
+        "id": 407,
+        "inputs": "你去过监狱了吗",
+        "targets": "Apa kau sudah ke Iron Heights?"
+    },
+    {
+        "id": 408,
+        "inputs": "强棒出击！",
+        "targets": "Adonan datang!"
+    },
+    {
+        "id": 409,
+        "inputs": "爱美丽的母亲艾曼婷是位小学女校长 一向有些神经质",
+        "targets": "Ibu Amélie, Amandine, seorang kepala sekolah dari Gueugnon, selalu memiliki saraf yang goyang."
+    },
+    {
+        "id": 410,
+        "inputs": "你得退休 法官",
+        "targets": "Kau akan segera pensiun, hakim."
+    },
+    {
+        "id": 411,
+        "inputs": "知道他叫什么吗？",
+        "targets": "- Kau tahu namanya?"
+    },
+    {
+        "id": 412,
+        "inputs": "天哪 那是地狱的入口",
+        "targets": "Astaga. Itu lurus menuju ke pusat badai."
+    },
+    {
+        "id": 413,
+        "inputs": "我没有找茬 如果我是在找茬 你会知道的 I ain't riding you.",
+        "targets": "Tidak."
+    },
+    {
+        "id": 414,
+        "inputs": "提议 那还真是个有趣的说法",
+        "targets": "Itu benar² silat lidah yang lihai."
+    },
+    {
+        "id": 415,
+        "inputs": "-服务部 -我的奶子快烂掉了",
+        "targets": "- Compliance and Liability."
+    },
+    {
+        "id": 416,
+        "inputs": "都是条桥正",
+        "targets": "- Itu luar biasa sekali."
+    },
+    {
+        "id": 417,
+        "inputs": "那你要回... So it's back to, uh...",
+        "targets": "- Jadi kembali ke ..."
+    },
+    {
+        "id": 418,
+        "inputs": "再不把事情做好 你们就成双成对了",
+        "targets": "Selesaikan misi ini... atau terimalah konsekuensinya."
+    },
+    {
+        "id": 419,
+        "inputs": "I know, I've heard you say that. 问题是 你说这话的时候 The thing is, when you say that, 我觉得你把自己排除在外了 I think what you're referring to is us, not you.",
+        "targets": "Perkataanmu mengarah pada kami, tak melibatkan dirimu."
+    },
+    {
+        "id": 420,
+        "inputs": "我不在时需要什么吗?",
+        "targets": "Kau butuh sesuatu saat aku keluar?"
+    },
+    {
+        "id": 421,
+        "inputs": "你想要知道我的感受吗",
+        "targets": "Kamu ingin tahu bagaimana perasaanku."
+    },
+    {
+        "id": 422,
+        "inputs": "- 是的",
+        "targets": "Mmm-hmm."
+    },
+    {
+        "id": 423,
+        "inputs": "我得说 看到一张清醒面孔真是欣慰",
+        "targets": "Tapi kukatakan padamu, senang bisa melihat wajah pendeta lagi."
+    },
+    {
+        "id": 424,
+        "inputs": "患者癫痫发作时伴有精神分裂的症状... 比如在听觉，视觉上产生幻觉... 有时候表现出强烈的妄想症",
+        "targets": "Kejang memiliki gejala-gejala schizophrenia seperti pendengaran dan halusinasi visual... ... dan terkadang ekstrem paranoia."
+    },
+    {
+        "id": 425,
+        "inputs": "听我说，詹姆斯跟杰米是完美的一对",
+        "targets": "Dengarkan aku: James dan Jamie yang sempurna."
+    },
+    {
+        "id": 426,
+        "inputs": "一无是处",
+        "targets": "Aku benar-benar, nol besar."
+    },
+    {
+        "id": 427,
+        "inputs": "是时候了",
+        "targets": "Inilah saatnya."
+    },
+    {
+        "id": 428,
+        "inputs": "你看，杯子放在桌上，可是现在 什么东西把它摔地上了",
+        "targets": "Aku meletakkan gelas di meja, lalu... ..sesuatu menjatuhkannya."
+    },
+    {
+        "id": 429,
+        "inputs": "- 她有",
+        "targets": "Aku di dapurnya."
+    },
+    {
+        "id": 430,
+        "inputs": "该死 交易失败了",
+        "targets": "Sial! Tak ada perjanjian!"
+    },
+    {
+        "id": 431,
+        "inputs": "回来 混蛋!",
+        "targets": "Kemari, kau berengsek!"
+    },
+    {
+        "id": 432,
+        "inputs": "-出去",
+        "targets": "Pergilah."
+    },
+    {
+        "id": 433,
+        "inputs": "真是恶心的家伙",
+        "targets": "tidak mungkin!"
+    },
+    {
+        "id": 434,
+        "inputs": "那她愿意吗?",
+        "targets": "Apa dia akan mau ?"
+    },
+    {
+        "id": 435,
+        "inputs": "我们都知道你的裙带关系",
+        "targets": "Kami tahu siapa koneksimu."
+    },
+    {
+        "id": 436,
+        "inputs": "其实我从来没有见过他。",
+        "targets": "Sebenarnya aku belum pernah bertemu dengannya."
+    },
+    {
+        "id": 437,
+        "inputs": "但你们是凡人 血肉之躯",
+        "targets": "Tapi kalian orang hidup-- berdaging dan berdarah."
+    },
+    {
+        "id": 438,
+        "inputs": "天呐 尼基",
+        "targets": "Ya ampun. Niki..."
+    },
+    {
+        "id": 439,
+        "inputs": "想一想 他立过多少战功",
+        "targets": "Dia telah lakukan peperangan, pertimbangkanlah!"
+    },
+    {
+        "id": 440,
+        "inputs": "你说吧，毕竟。",
+        "targets": "kau berbicara, setelah semua ."
+    },
+    {
+        "id": 441,
+        "inputs": "究竟是什么使他做出如此绝望的行为?",
+        "targets": "Dan apa yang membuatnya melakukan tindakan seperti itu...?"
+    },
+    {
+        "id": 442,
+        "inputs": "嗯，最近过得有点郁闷 所以想看到你",
+        "targets": "Belakangan ini aku sangat depresi aku hanya ingin melihatmu."
+    },
+    {
+        "id": 443,
+        "inputs": "闭上你的...",
+        "targets": "Diam..."
+    },
+    {
+        "id": 444,
+        "inputs": "那就全看你的了",
+        "targets": "Sudah jelas?"
+    },
+    {
+        "id": 445,
+        "inputs": "也许我看上去并不面善",
+        "targets": "Mungkin kau tak seberani ayahmu."
+    },
+    {
+        "id": 446,
+        "inputs": "快停手 慢慢来考虑清楚 好吗",
+        "targets": "Berhenti saja, oke? Luangkan waktu untuk memikirkan hal ini."
+    },
+    {
+        "id": 447,
+        "inputs": "它的武器是致命干旱与大火 族长库伊西已经注意到变化",
+        "targets": "Beberapa dapat mengingat waktu di sungai terkuat di dunia, ketika anak-anak sungainya berlari kering, tidak rendah, kering kotoran."
+    },
+    {
+        "id": 448,
+        "inputs": "我懂了",
+        "targets": "Aku paham."
+    },
+    {
+        "id": 449,
+        "inputs": "好了吗？",
+        "targets": "Apa itu bagus?"
+    },
+    {
+        "id": 450,
+        "inputs": "噢，是医生",
+        "targets": "Oh, doktor."
+    },
+    {
+        "id": 451,
+        "inputs": "所有这些毒品都造成了... 这个国家里现在年轻人的堕落",
+        "targets": "Menurutku narkoba, penyebab penurunan moralitas generasi muda kita."
+    },
+    {
+        "id": 452,
+        "inputs": "你做什么，你告诉。",
+        "targets": "Anda melakukan apa yang diperintahkan."
+    },
+    {
+        "id": 453,
+        "inputs": "就这么一下",
+        "targets": "Seperti itu."
+    },
+    {
+        "id": 454,
+        "inputs": "不行 不可能的",
+        "targets": "Tidak mungkin. Itu tidak bisa dilakukan."
+    },
+    {
+        "id": 455,
+        "inputs": "- 你不要多心",
+        "targets": "Aku tidak tahu apa yang kau bicarakan."
+    },
+    {
+        "id": 456,
+        "inputs": "嗨，Luke，你好吗？",
+        "targets": "- Hai, Luke. Duduk."
+    },
+    {
+        "id": 457,
+        "inputs": "这算妳说的冒险吗？",
+        "targets": "Apakah itu yang kamu sebut petualangan?"
+    },
+    {
+        "id": 458,
+        "inputs": "好吧 等一下，让我先...",
+        "targets": "Baiklah, tunggu sebentar."
+    },
+    {
+        "id": 459,
+        "inputs": "你有问题吗？",
+        "targets": "Kau ada masalah?"
+    },
+    {
+        "id": 460,
+        "inputs": "你们在做什么",
+        "targets": "Apa yang kalian lakukan?"
+    },
+    {
+        "id": 461,
+        "inputs": "只在大学时候或几年前这么做过",
+        "targets": "Sejak kuliah, atau sejak beberapa tahun keluar."
+    },
+    {
+        "id": 462,
+        "inputs": "真主使他们在今世尝试凌辱，而后世的刑罚必定是更重大的。假若他们知道……",
+        "targets": "(Maka Allah merasakan kepada mereka kehinaan) artinya, mereka dihina dan direndahkan dengan berupa kutukan, pembunuhan dan lain sebagainya (pada kehidupan dunia. Dan sesungguhnya azab pada hari akhirat lebih besar kalau mereka) yakni orang-orang yang mendustakannya (mengetahui) azab akhirat, dan niscaya kalau mereka mengetahuinya maka mereka tidak akan mendustakannya."
+    },
+    {
+        "id": 463,
+        "inputs": "去吧 好的",
+        "targets": "- beri aku waktu - silahkan"
+    },
+    {
+        "id": 464,
+        "inputs": "可以好好睡一周了",
+        "targets": "Aku bisa tidur seminggu."
+    },
+    {
+        "id": 465,
+        "inputs": "我们知道魔鬼的",
+        "targets": "Iblis yg kita tahu itu."
+    },
+    {
+        "id": 466,
+        "inputs": "\"他们要杀我们\" 你都明白了吗?",
+        "targets": "Perhatikan saya."
+    },
+    {
+        "id": 467,
+        "inputs": "我说，\"他妈的他们。\"",
+        "targets": "Aku bilang, \"Persetan dengan mereka.\""
+    },
+    {
+        "id": 468,
+        "inputs": "- 嗨Reed",
+        "targets": "Hei. Reed./ Aku butuh..."
+    },
+    {
+        "id": 469,
+        "inputs": "- 你叫什么 小子? - 迪兰·韦伯 - What's your name, mate?",
+        "targets": "Siapa namamu, Sobat?"
+    },
+    {
+        "id": 470,
+        "inputs": "- 别笑！",
+        "targets": "- Jangan tertawa."
+    },
+    {
+        "id": 471,
+        "inputs": "-正好有个活",
+        "targets": "Tawaran kerjaan baru datang."
+    },
+    {
+        "id": 472,
+        "inputs": "安琪拉上庭两天前刚刚被买下",
+        "targets": "Dibeli dua hari sebelum Angela terkena gugatan."
+    },
+    {
+        "id": 473,
+        "inputs": "那好吧，你会给我开什么样的薪水？",
+        "targets": "Oke, berapa level gaji yang kau tawarkan"
+    },
+    {
+        "id": 474,
+        "inputs": "你叫阿玲?",
+        "targets": "Ya, kakak kopi."
+    },
+    {
+        "id": 475,
+        "inputs": "一直以来 你打电话给我就会骂我 You only call to yell at me, just like always.",
+        "targets": "Kau hanya berteriak padaku, seperti biasanya."
+    },
+    {
+        "id": 476,
+        "inputs": "菲尔，你知道我们搁置报道的原因",
+        "targets": "Phil, kau tahu alasan kami berhenti."
+    },
+    {
+        "id": 477,
+        "inputs": "I demand audience with Orin Tuck!",
+        "targets": "Dalam nama dewi, Anisette, Aku ingin bertemu dengan Orin Tuck!"
+    },
+    {
+        "id": 478,
+        "inputs": "有人带了毒品 她吸毒过量了 There were drugs, and she overdosed.",
+        "targets": "Ada Narkoba, dan dia overdosis."
+    },
+    {
+        "id": 479,
+        "inputs": "发生什么事了? - 是的 是的",
+        "targets": "Apa yang terjadi?"
+    },
+    {
+        "id": 480,
+        "inputs": "普莱斯在哪?",
+        "targets": "Dimana Pryce?"
+    },
+    {
+        "id": 481,
+        "inputs": "我是一个被称作\"蜂巢\"的 秘密高科技研究中心的安全主管...",
+        "targets": "Aku adalah ketua keselamatan dari fasiliti... Teknologi tinggi yang disebut Hive..."
+    },
+    {
+        "id": 482,
+        "inputs": "去拿只碗来",
+        "targets": "Ambil mangkok."
+    },
+    {
+        "id": 483,
+        "inputs": "怎么帮?",
+        "targets": "Hubungi Pinkman."
+    },
+    {
+        "id": 484,
+        "inputs": "红小子，过来支援我们",
+        "targets": "Red, kami membutuhkanmu di sini"
+    },
+    {
+        "id": 485,
+        "inputs": "不,不要了 我 -",
+        "targets": "AkuAku tidak cukup tidur tadi malam... dan saat aku tidur... aku mendapat mimpi buruk yang paling mengerikan."
+    },
+    {
+        "id": 486,
+        "inputs": "我居然找了一群白痴共事",
+        "targets": "Aku bekerja dengan orang tolol."
+    },
+    {
+        "id": 487,
+        "inputs": "兰尼，你最近曾去卫头巷尾巡视吗？",
+        "targets": "Anda tahu betapa anehnya itu di luar sana?"
+    },
+    {
+        "id": 488,
+        "inputs": "你在忏悔?",
+        "targets": "Tak apa. Kau benar."
+    },
+    {
+        "id": 489,
+        "inputs": "信以为真了",
+        "targets": "Aku pikir mereka mempercayainya."
+    },
+    {
+        "id": 490,
+        "inputs": "但是前面有德军纵队",
+        "targets": "Dan ada tank Jerman di depan."
+    },
+    {
+        "id": 491,
+        "inputs": "但总有办法找到密码的 Well, there's also ways to find out passwords.",
+        "targets": "Yah, ada juga cara lain untuk mencari tahu passwords."
+    },
+    {
+        "id": 492,
+        "inputs": "并不快捷，但是这台机器 却使我们可以截获信号 又不会留下任何痕迹",
+        "targets": "Tak cepat, tak mudah, tapi peralatan yang ada disini bisa melacak sinyal fotocopy-nya tanpa terdeteksi oleh mereka."
+    },
+    {
+        "id": 493,
+        "inputs": "稦竧",
+        "targets": "onanilah, San Diego."
+    },
+    {
+        "id": 494,
+        "inputs": "- 明白吗",
+        "targets": "- Sudah ngerti?"
+    },
+    {
+        "id": 495,
+        "inputs": "你不会真的要我回答这个问题吧",
+        "targets": "Kamu tidak serius menanyaiku itu."
+    },
+    {
+        "id": 496,
+        "inputs": "利普",
+        "targets": "Lip!"
+    },
+    {
+        "id": 497,
+        "inputs": "多亏有奇乐 犯罪率急剧下降",
+        "targets": "Angka kejahatan menurun, terima kasih pada Kira."
+    },
+    {
+        "id": 498,
+        "inputs": "他跳伞的，赤裸裸的。",
+        "targets": "Dia datang pakai terjun payung, telanjang."
+    },
+    {
+        "id": 499,
+        "inputs": "对,被你发现了",
+        "targets": "Benar sekali. makanya... Penting sekali mencari pasangan yg pas."
+    },
+    {
+        "id": 500,
+        "inputs": "\"海尼根寻找绑架过自己的绑匪\"",
+        "targets": "\"Heineken Memburu Penculik\""
+    },
+    {
+        "id": 501,
+        "inputs": "让我向你建议",
+        "targets": "Ijinkan aku memberikan saran padamu."
+    },
+    {
+        "id": 502,
+        "inputs": "有一个老家伙开始跟我好上",
+        "targets": "Dan Lester tua kemuDian menjaDi temanku."
+    },
+    {
+        "id": 503,
+        "inputs": "登报用的",
+        "targets": "Untuk koran."
+    },
+    {
+        "id": 504,
+        "inputs": "为什么？",
+        "targets": "Kenapa?"
+    },
+    {
+        "id": 505,
+        "inputs": "干吗大惊小怪",
+        "targets": "Karena kau masih sakit."
+    },
+    {
+        "id": 506,
+        "inputs": "但爱因斯坦说，伦理观念 是不牵扯超能力的人文关怀",
+        "targets": "Tapi Einstein bilang bahwa etika adalah keprihatinan manusia yang ekslusif. tanpa penguasaan yang super dibelakangnya."
+    },
+    {
+        "id": 507,
+        "inputs": "你本来能救她的 是吧",
+        "targets": "Bisakah kau menyembuhkannya?"
+    },
+    {
+        "id": 508,
+        "inputs": "- 那我们就要冒很大的风险",
+        "targets": "- Tapi resikonya terlalu besar untuk kita"
+    },
+    {
+        "id": 509,
+        "inputs": "喂...",
+        "targets": "Hallo..."
+    },
+    {
+        "id": 510,
+        "inputs": "It's not easy doing what I do under the cloud of a one -year contract. 这工作只有一年合约 实在做不来啊",
+        "targets": "Tak mudah melakukan pekerjaanku di bawah bayangan kontrak satu tahun."
+    },
+    {
+        "id": 511,
+        "inputs": "琌讽綪扳",
+        "targets": "Kau bercanda?"
+    },
+    {
+        "id": 512,
+        "inputs": "你认为皇室的孩子值多少钱",
+        "targets": "Menurutmu berapa harga yang pantas untuk keturunan keluarga kerajaan?"
+    },
+    {
+        "id": 513,
+        "inputs": "这样你就懂什么是恐惧了？",
+        "targets": "Itu memberimu beberapa gagasan?"
+    },
+    {
+        "id": 514,
+        "inputs": "信仰我的迹象的，只有那等人；别人以我的迹象劝戒他们的时候，他们便俯伏叩头并赞颂他们的那超绝万物的主，他们不敢妄自尊大，（此处叩头！）※",
+        "targets": "(Sesungguhnya orang-orang yang beriman kepada ayat-ayat Kami) yakni Alquran (adalah orang-orang yang apabila diperingatkan) dinasihati (dengan ayat-ayat Kami mereka menyungkur sujud dan bertasbih) seraya (memuji Rabbnya) dengan mengucapkan kalimat, \"Subhaanallaah wa bihamdihi\" (sedangkan mereka tidak menyombongkan diri) lantaran beriman dan berlaku taat itu."
+    },
+    {
+        "id": 515,
+        "inputs": "-对不起，那个人走过来，这是意外",
+        "targets": "- Maaf. atas insiden tadi."
+    },
+    {
+        "id": 516,
+        "inputs": "刘德华真的没骗人",
+        "targets": "Andy Lau (salah satu raja langit) benar2 tak berbohong."
+    },
+    {
+        "id": 517,
+        "inputs": "站住 别骚扰他们",
+        "targets": "Hey, bung. kau harus mundur!"
+    },
+    {
+        "id": 518,
+        "inputs": "只是，我从来没半途而废过",
+        "targets": "tidak pernah menghentikan apa pun sebelumnya."
+    },
+    {
+        "id": 519,
+        "inputs": "有一个美好的周末。",
+        "targets": "Selamat menikmati akhir pekan."
+    },
+    {
+        "id": 520,
+        "inputs": "哈妮 哈妮",
+        "targets": "Ha Ni Ha Ni."
+    },
+    {
+        "id": 521,
+        "inputs": "还记得吗？",
+        "targets": "Ingat ?"
+    },
+    {
+        "id": 522,
+        "inputs": "我现在没办法去做，我在经历一些事情",
+        "targets": "Aku tak bisa mengerjakannya sekarang. Aku sedang mengalami sesuatu."
+    },
+    {
+        "id": 523,
+        "inputs": "你好，诺玛。",
+        "targets": "Halo, Norma. - Hai, Ellis."
+    },
+    {
+        "id": 524,
+        "inputs": "我们很快就会再见，兄弟",
+        "targets": "Kita akan segera bertemu lagi, Saudaraku."
+    },
+    {
+        "id": 525,
+        "inputs": "老板，那我咧？",
+        "targets": "Bagaimana denganku?"
+    },
+    {
+        "id": 526,
+        "inputs": "- 从不",
+        "targets": "Tidak, tidak pernah."
+    },
+    {
+        "id": 527,
+        "inputs": "从1000米外",
+        "targets": "Dia ada di jarak 1.000 meter lebih."
+    },
+    {
+        "id": 528,
+        "inputs": "我读的这本书是一位人类学家的著作",
+        "targets": "Buku yang saya baca, disusun oleh antropolog."
+    },
+    {
+        "id": 529,
+        "inputs": "太好了",
+        "targets": "Berhasil! Semoga beruntung!"
+    },
+    {
+        "id": 530,
+        "inputs": "你为什么不直接给他一枪算了 Why don't you take a shot at him?",
+        "targets": "Kenapa tidak ditembak saja?"
+    },
+    {
+        "id": 531,
+        "inputs": "嗯，在面试前可以晒干吧 Well, that'll dry by the interview.",
+        "targets": "Ini akan kering sendiri saat wawancara."
+    },
+    {
+        "id": 532,
+        "inputs": "如果真发生了什么",
+        "targets": "Dengar, jika sesuatu terjadi,.."
+    },
+    {
+        "id": 533,
+        "inputs": "因为他得到的东西特别计划开展 为您的宝宝的女孩。",
+        "targets": "Karena dia sudah mempunyai rencana yang bagus untuk putrimu itu."
+    },
+    {
+        "id": 534,
+        "inputs": "詹姆斯， 就让我们 -",
+        "targets": "James, mari kita..."
+    },
+    {
+        "id": 535,
+        "inputs": "里面没有被保护 那里的墙壁上没有咒语",
+        "targets": "Disana tidak terlindungi. Tidak ada mantera di dindingnya."
+    },
+    {
+        "id": 536,
+        "inputs": "我的死期就要到了",
+        "targets": "{\\cH5EFFFF}Waktuku telah tiba."
+    },
+    {
+        "id": 537,
+        "inputs": "你有没有想过 自然界的光亮哪来的？",
+        "targets": "Pernahkah kau bertanya mengapa alam begitu bercahaya?"
+    },
+    {
+        "id": 538,
+        "inputs": "神我们的灵魂 没有",
+        "targets": "Jiwa kita, bukan Tuhan."
+    },
+    {
+        "id": 539,
+        "inputs": "我知道你...",
+        "targets": "Aku mengerti kau..."
+    },
+    {
+        "id": 540,
+        "inputs": "解开她的绳索 一切结束了",
+        "targets": "Lepaskan dia. Permainan ini telah berakhir."
+    },
+    {
+        "id": 541,
+        "inputs": "要命，是凯莉赫金斯",
+        "targets": "Itu Cary Hutchins."
+    },
+    {
+        "id": 542,
+        "inputs": "坐那等会",
+        "targets": "Duduklah."
+    },
+    {
+        "id": 543,
+        "inputs": "我会把他活着带来...",
+        "targets": "Akan kubawa dia kemari hidup - hidup, Dan kupegangi dia..,.."
+    },
+    {
+        "id": 544,
+        "inputs": "好的 谢谢",
+        "targets": "- memang betul. - Tepat seperti yang kamu ajari."
+    },
+    {
+        "id": 545,
+        "inputs": "他从云中降下有定量的雨水，借雨水而使已死的地方复活。你们将来要这样从坟墓中被取出。",
+        "targets": "(Dan Yang menurunkan air dari langit menurut kadar) yang diperlukan oleh kalian, dan Dia tidak menurunkannya dalam bentuk hujan yang sangat besar yang disertai dengan angin topan (lalu Kami hidupkan dengan air itu negeri yang mati, seperti itulah) sebagaimana cara menghidupkan itulah (kalian akan dikeluarkan) dari dalam kubur kalian lalu kalian menjadi hidup kembali."
+    },
+    {
+        "id": 546,
+        "inputs": "抱歉，我觉得自己好糟 我睡不着",
+        "targets": "Oh, aku minta maaf. Saya merasa seperti sampah. Saya tidak tidur."
+    },
+    {
+        "id": 547,
+        "inputs": "生命被永远改变 奥伽!",
+        "targets": "- Dan kemudian semuanya berubah selamanya ."
+    },
+    {
+        "id": 548,
+        "inputs": "她身上，全是...",
+        "targets": "Disekujur, disekujur badannya...ada..."
+    },
+    {
+        "id": 549,
+        "inputs": "20毫升的血清 快",
+        "targets": "Cepat. aku butuh 20 cc Epimone. Cepat!"
+    },
+    {
+        "id": 550,
+        "inputs": "是因为有人爱真正的我",
+        "targets": "Karena aku menyukai siapa diriku sebenarnya."
+    },
+    {
+        "id": 551,
+        "inputs": "随后我就要看到你这样做",
+        "targets": "Akan kutemui kau di luar sana !"
+    },
+    {
+        "id": 552,
+        "inputs": "这是他们的秘密 原因在于设计师本·莱克森 They kept it a secret, and the reason was 'cause Ben Lexcen, the designer, 比任何人都更清楚船是如何在水中行进的 he knew better than anyone how a boat went through the water.",
+        "targets": "Mereka merahasiakannya, dan alasannya karena Ben Lexcen, perancangnya, dia lebih tahu dari siapa pun cara perahu melintas air dengan cepat."
+    },
+    {
+        "id": 553,
+        "inputs": "我真的需要跟你谈话 我们正在谈话",
+        "targets": "Aku harus berbicara denganmu./ Kita bicara sekarang."
+    },
+    {
+        "id": 554,
+        "inputs": "他们咕噜咕噜，你反正听不懂",
+        "targets": "Mereka menggunakan bahasa yang aneh. Kau tak akan mengerti."
+    },
+    {
+        "id": 555,
+        "inputs": "注射?",
+        "targets": "Kamu membunuhnya?"
+    },
+    {
+        "id": 556,
+        "inputs": "阻止那辆飞机起飞",
+        "targets": "Hentikan pesawat itu sebelum lepas landas."
+    },
+    {
+        "id": 557,
+        "inputs": "〔如果你看见我脱光会怎么办？ 〕",
+        "targets": "Apa yang akan kau lakukan jika kau mendapatiku telanjang?"
+    },
+    {
+        "id": 558,
+        "inputs": "老迈 你第一个上场",
+        "targets": "Mike, kau giliran yang pertama."
+    },
+    {
+        "id": 559,
+        "inputs": "可讽刺的是，我们得感谢的人 是你的朋友洛克哈特先生。",
+        "targets": "Tapi ironisnya, itu temanmu Tn. Lockhart yang harus kita syukuri."
+    },
+    {
+        "id": 560,
+        "inputs": "失散了",
+        "targets": "Aku kehilangan mereka."
+    },
+    {
+        "id": 561,
+        "inputs": "你想当... 我的伙伴?",
+        "targets": "Kau mau jadi pendampingku?"
+    },
+    {
+        "id": 562,
+        "inputs": "我爸爸，他死了",
+        "targets": "\"Ayah-ku Sudah Mati\"."
+    },
+    {
+        "id": 563,
+        "inputs": "接着他们又会再次重复这一切 {\\cHFFFFFF}{\\3cH111111}{\\4cH111111}Just so they could start in all over.",
+        "targets": "Hanya supaya mereka bisa mulai lagi dari awal."
+    },
+    {
+        "id": 564,
+        "inputs": "不，教授",
+        "targets": "Tidak Professor."
+    },
+    {
+        "id": 565,
+        "inputs": "管他妈的",
+        "targets": "Persetan dengan mereka."
+    },
+    {
+        "id": 566,
+        "inputs": "罗彻斯特先生来了",
+        "targets": "Tn. Rochester tiba."
+    },
+    {
+        "id": 567,
+        "inputs": "都不会是安全的 因为这是战区",
+        "targets": "Ini Medan Perang."
+    },
+    {
+        "id": 568,
+        "inputs": "你不敢说是不是因为",
+        "targets": "Apa kau takut bicara karena..."
+    },
+    {
+        "id": 569,
+        "inputs": "爸爸坐牢12年了",
+        "targets": "Ayah dipenjara selama 12 tahun."
+    },
+    {
+        "id": 570,
+        "inputs": "将德里珍藏心底,却舞动着伦敦的节",
+        "targets": "♪♫ The one who has Delhi in her heart and London in her heartbeat ♪♫"
+    },
+    {
+        "id": 571,
+        "inputs": "叫我Shane就好",
+        "targets": "Atticus Shane. tolong, panggil saja Shane, kumohon."
+    },
+    {
+        "id": 572,
+        "inputs": "- 是的，我正在争论",
+        "targets": "- Ya, aku lakukan."
+    },
+    {
+        "id": 573,
+        "inputs": "肯定有些东西他们不能说出实情",
+        "targets": "Saya yakin pasti ada yang tak beres yang mereka sembunyikan."
+    },
+    {
+        "id": 574,
+        "inputs": "花光了我的钱 我还是孩子时它就甩来甩去",
+        "targets": "Mereka dijahit tetapi tidak pernah bekerja, Aku tidak bisa menekuk. Mereka kompensasi me dan terapi ke depan, tapi aku masih kecil."
+    },
+    {
+        "id": 575,
+        "inputs": "你为什么来这儿",
+        "targets": "Bridge..."
+    },
+    {
+        "id": 576,
+        "inputs": "托比 入侵保险资料库 设法找车",
+        "targets": "Toby, retas ke database perusahaan asuransi... temukan mobil sebanyak mungkin."
+    },
+    {
+        "id": 577,
+        "inputs": "-而你当场就接受了",
+        "targets": "- Kau mengambil tempat."
+    },
+    {
+        "id": 578,
+        "inputs": "一片漆黑",
+        "targets": "Cukup gelap."
+    },
+    {
+        "id": 579,
+        "inputs": "我是不会做鸭的,长官!",
+        "targets": "Aku tidak akan mengkhianati tubuh, Pak"
+    },
+    {
+        "id": 580,
+        "inputs": "我等了一周",
+        "targets": "Aku menunggu seminggu."
+    },
+    {
+        "id": 581,
+        "inputs": "给你 蠢猫!",
+        "targets": "Ini, kucing bodoh!"
+    },
+    {
+        "id": 582,
+        "inputs": "你仔细看，肯定还在里头呢",
+        "targets": "Kau mendekat karena bibirku sedikit bergetar."
+    },
+    {
+        "id": 583,
+        "inputs": "它让这里的东西看起来都黄",
+        "targets": "membuat segalanya tampak kuning."
+    },
+    {
+        "id": 584,
+        "inputs": "要是有什么神奇的装置 能用来和别人通话就好了",
+        "targets": "Kalau saja ada perangkat sihir yang digunakan orang untuk memanggil orang-orang."
+    },
+    {
+        "id": 585,
+        "inputs": "楚奥特先生 把那畜生降下来",
+        "targets": "Tn. Trout, turunkan hewan liar itu."
+    },
+    {
+        "id": 586,
+        "inputs": "和梅丽莎还好吧？ 噢，还好",
+        "targets": "- Tak ada masalah dengan Melissa?"
+    },
+    {
+        "id": 587,
+        "inputs": "梅丽莎 甜心 看我给你带什么了",
+        "targets": "Melissa, Sayang! Ayo lihat apa yang aku bawa untuk kamu."
+    },
+    {
+        "id": 588,
+        "inputs": "假如你只想当个小齿轮，我们是不会有兴趣的",
+        "targets": "Jika kau adalah tipe pesuruh, kami tak tertarik."
+    },
+    {
+        "id": 589,
+        "inputs": "请问，安娣在家吗？",
+        "targets": "Hei, apa Andie ada?"
+    },
+    {
+        "id": 590,
+        "inputs": "网络上看到了",
+        "targets": "Ayolah, aku pernah lihat kau di internet."
+    },
+    {
+        "id": 591,
+        "inputs": "我的毯子! My blanket!",
+        "targets": "Selimutku!"
+    },
+    {
+        "id": 592,
+        "inputs": "-斑斑 为什么咬我",
+        "targets": "-Scabbers, kau menggigitku!"
+    },
+    {
+        "id": 593,
+        "inputs": "也是属于我的美好时刻",
+        "targets": "Ini adalah kesempatanku."
+    },
+    {
+        "id": 594,
+        "inputs": "应载燃油8618公斤，实载9888公斤",
+        "targets": "19,000 pounds yang di butuhkan telah di isikan dalam pesawat."
+    },
+    {
+        "id": 595,
+        "inputs": "工厂只是个借口 如果你问我实情...",
+        "targets": "Semua laki-laki selalu berada diluar rumah."
+    },
+    {
+        "id": 596,
+        "inputs": "你自己心里明白",
+        "targets": "- Itu konyol. - Ya, benar."
+    },
+    {
+        "id": 597,
+        "inputs": "-8天",
+        "targets": "- 8 hari."
+    },
+    {
+        "id": 598,
+        "inputs": "有时候我害怕你会有一天 Sometimes I worry you're gonna wake up 离开我去和一个更像你的人在一起 and leave me for someone more like you.",
+        "targets": "Kadang aku khawatir kamu akan sadar dan meninggalkanku untuk bersama orang seperti mu"
+    },
+    {
+        "id": 599,
+        "inputs": "做得好",
+        "targets": "Dasar anak muda."
+    }
+]
