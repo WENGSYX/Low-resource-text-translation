@@ -1,6 +1,5 @@
-<h3>
-    <center>Towards Better Chinese-centric Neural Machine Translation for
-Low-resource Languages</center>
+<h3 align="center">Towards Better Chinese-centric Neural Machine Translation for
+Low-resource Languages
 </h3>
 
 
@@ -8,7 +7,7 @@ Low-resource Languages</center>
 <h4 align="center">
     <p>
         <b>English</b> |
-        <a href="https://github.com/WENGSYX/ADBCMM/blob/master/README.md">简体中文</a>
+        <a href="https://github.com/WENGSYX/ADBCMM/blob/master/readme_zh.md">简体中文</a>
     <p>
 </h4>
 
