@@ -7,7 +7,7 @@ Low-resource Languages
 <h4 align="center">
     <p>
         <b>English</b> |
-        <a href="https://github.com/WENGSYX/ADBCMM/blob/master/readme_zh.md">简体中文</a>
+        <a href="https://github.com/WENGSYX/Low-resource-text-translation/blob/main/readme_zh.md">简体中文</a>
     <p>
 </h4>
 
