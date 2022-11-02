@@ -64,7 +64,7 @@ In the M2M model training stage, the model learns a large amount of data, so the
 
 
 
-<img src="C:\Users\14301\Downloads\img\img2.png" alt="img" style="zoom:50%;" />
+<img src="img/img2.png" alt="img" style="zoom:50%;" />
 
 <img src="img/img1.png" alt="img" style="zoom:50%;" />
 
