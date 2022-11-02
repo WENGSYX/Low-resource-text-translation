@@ -151,7 +151,8 @@ json
 
 ## 引用
 
-```@article{li2022towards,
+```
+@article{li2022towards,
   title={Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages},
   author={Li, Bin and Weng, Yixuan and Xia, Fei and Deng, Hanjun},
   journal={arXiv preprint arXiv:2204.04344},
