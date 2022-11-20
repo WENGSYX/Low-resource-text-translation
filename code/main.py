@@ -20,7 +20,7 @@ import sacrebleu
 CFG = { #训练的参数配置
     'fold_num': 5, #五折交叉验证
     'seed': 2,
-    'model': 'm2m', #预训练模型
+    'model': 'facebook/m2m100_418M', #预训练模型
     'max_len': 80, #文本截断的最大长度
     'epochs': 8,
     'train_bs': 1, #batch_size，可根据自己的显存调整
