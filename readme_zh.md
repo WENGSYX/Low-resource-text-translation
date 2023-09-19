@@ -152,10 +152,17 @@ json
 ## 引用
 
 ```
-@article{li2022towards,
-  title={Towards Better Chinese-centric Neural Machine Translation for Low-resource Languages},
-  author={Li, Bin and Weng, Yixuan and Xia, Fei and Deng, Hanjun},
-  journal={arXiv preprint arXiv:2204.04344},
-  year={2022}
+@article{LI2024101566,
+title = {Towards better Chinese-centric neural machine translation for low-resource languages},
+journal = {Computer Speech & Language},
+volume = {84},
+pages = {101566},
+year = {2024},
+issn = {0885-2308},
+doi = {https://doi.org/10.1016/j.csl.2023.101566},
+url = {https://www.sciencedirect.com/science/article/pii/S0885230823000852},
+author = {Bin Li and Yixuan Weng and Fei Xia and Hanjun Deng},
+keywords = {Chinese-centric neural machine translation, Low-resource language},
+abstract = {The last decade has witnessed enormous improvements in science and technology, stimulating the growing demand for economic and cultural exchanges in various countries. Building a neural machine translation (NMT) system has become an urgent trend, especially in the low-resource setting. However, recent work tends to study NMT systems for low-resource languages centered on English, while a few studies focus on low-resource NMT systems centered on other languages such as Chinese. To achieve this, the low-resource multilingual translation challenge of the 2021 iFLYTEK AI Developer Competition provides the Chinese-centric multilingual low-resource NMT tasks, where participants are required to build NMT systems based on the provided low-resource samples. In this paper, we present the competition-winning system that leverages monolingual word embeddings data enhancement, bilingual curriculum learning, and contrastive re-ranking. In addition, a new Incomplete-Trust (In-trust) loss function is proposed to replace the traditional cross-entropy loss when training. The extensive experimental results demonstrate that the implementation of these ideas leads to better performance than other state-of-the-art methods. All the experimental codes are released at: https://github.com/WENGSYX/Low-resource-text-translation.}
 }
 ```
